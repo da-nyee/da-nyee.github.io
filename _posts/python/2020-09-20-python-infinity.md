@@ -1,7 +1,7 @@
 ---
 title: '[Python] 양의 무한대(inf), 음의 무한대(-inf) 표시'
 author: da-nyee
-date: 2020-09-20 23:45:48 +0900
+date: 2020-09-20 23:58:48 +0900
 categories: [TIL, Python]
 tags: [python, infinity]
 ---
