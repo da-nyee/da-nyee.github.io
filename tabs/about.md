@@ -43,6 +43,7 @@ Let's live like *U-know Yunho 👩‍💻.
 - Git
 
 <br/>
+<hr/>
 
-### Github Contributions
+### 🌻 **Github Contributions**
 ![github-contributions](https://ghchart.rshah.org/da-nyee)
