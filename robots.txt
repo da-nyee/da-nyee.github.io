@@ -13,4 +13,4 @@ Allow: /
 
 Disallow: /norobots/
 
-Sitemap: {{ site.url | append: site.baseurl }}/sitemap.xml
+Sitemap: https://da-nyee.github.io/sitemap.xml
