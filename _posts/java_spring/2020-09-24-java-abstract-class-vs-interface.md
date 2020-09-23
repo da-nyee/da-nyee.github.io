@@ -109,7 +109,7 @@ interface Printable {
 - 상수는 `public static final`, 추상 메소드는 `public abstract`를 생략해도 된다.
 - 컴파일러가 컴파일 시 자동으로 생성해준다.<br/>
 
-![java_abstract_class_vs_interface_1](/../../assets/img/post/java_abstract_class_vs_interface_1.PNG)
+![java_abstract_class_vs_interface_1](https://user-images.githubusercontent.com/50176238/94044910-bdc22700-fe09-11ea-88b8-1eaeb87b96d3.PNG)
 <br/><br/>
 
 - 인터페이스는 `구현(implements)`된다.
@@ -122,7 +122,7 @@ interface Printable {
 - `extends`: 클래스 ⬅ 클래스, 인터페이스 ⬅ 인터페이스 상속
 - `implements`: 인터페이스 ⬅ 클래스 상속<br/>
 
-![java_abstract_class_vs_interface_2](/../../assets/img/post/java_abstract_class_vs_interface_2.PNG)
+![java_abstract_class_vs_interface_2](https://user-images.githubusercontent.com/50176238/94044962-c87cbc00-fe09-11ea-82f5-c40c157f3801.PNG)
 
 ## Same Features
 
@@ -134,7 +134,7 @@ interface Printable {
 
 - `추상 클래스는 단일 상속`, `인터페이스는 다중 상속`이 가능하다.<br/>
 
-![java_abstract_class_vs_interface_3](/../../assets/img/post/java_abstract_class_vs_interface_3.PNG)
+![java_abstract_class_vs_interface_3](https://user-images.githubusercontent.com/50176238/94045001-d3cfe780-fe09-11ea-9c34-99411d446d55.PNG)
 <br/><br/>
 
 - 추상 클래스의 목적은 상속을 받아 `기능을 확장`시키는 것이다. (부모의 유전자를 물려받는다.)
