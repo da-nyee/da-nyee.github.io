@@ -41,3 +41,8 @@ Let's live like *U-know Yunho 👩‍💻.
 - Artificial Intelligence (Python)
 - Cloud Computing Services (AWS)
 - Git
+
+<br/>
+
+### Github Contributions
+![github-contributions](https://ghchart.rshah.org/da-nyee)
