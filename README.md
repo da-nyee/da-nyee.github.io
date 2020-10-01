@@ -16,6 +16,9 @@
 #### `Java`
 - [[Java] 추상 메서드 vs 인터페이스 (Abstract Class vs Interface)](https://da-nyee.github.io/posts/java-abstract-class-vs-interface/)
 
+#### `Operating System`
+- [[Operating System] 컴파일, 링크, 빌드 (Compile, Link, Build)](https://da-nyee.github.io/posts/operating-system-compile-link-build/)
+
 #### `Python`
 - [[Python] 양의 무한대(inf), 음의 무한대(-inf) 표시](https://da-nyee.github.io/posts/python-infinity/)
 
