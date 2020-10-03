@@ -59,6 +59,7 @@ Java의 경우, Build Tool로는 `Ant, Maven, Gradle` 등이 있다.
 
 `Compile ➡ Link ➡ Build ➡ Run`의 순서로 이어진다.
 
-## Reference
+## References
+
 - [컴파일/빌드 란?](https://m.blog.naver.com/PostView.nhn?blogId=ssdyka&logNo=221494190411&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [컴파일과 빌드 차이점](https://freezboi.tistory.com/39)

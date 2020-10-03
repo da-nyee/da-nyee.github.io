@@ -104,4 +104,5 @@ See also: #456, #789
 ```
 
 ## Reference
+
 - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)

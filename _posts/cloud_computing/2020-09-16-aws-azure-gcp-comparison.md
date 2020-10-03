@@ -28,7 +28,8 @@ tags: [cloud computing, aws, azure, gcp, comparison]
 |<center><b>Database</b></center>|\[서비스 개수\]<br/>- 12개<br/><br/>\[주요 서비스\]<br/>- Amazon DynamoDB<br/>- Amazon RDS<br/><br/>\[특징\]<br/>- 대규모 성능<br/>- 완전관리형 DB<br/>- 업무용 사용 가능<br/>- 뛰어난 가용성, 내구성|\[서비스 개수\]<br/>- 13개<br/><br/>\[주요 서비스\]<br/>- Azure Cosmos DB<br/>- Azure SQL<br/><br/>\[특징\]<br/>- 빠른 속도 보장<br/>- 완전관리형 DB<br/>- 업무용 사용 가능<br/>- 높은 유연성|\[서비스 개수\]<br/>- 6개<br/><br/>\[주요 서비스\]<br/>- Firebase 데이터베이스<br/>- Cloud SQL<br/><br/>\[특징\]<br/>- 데이터 실시간 동기화<br/>- 완전관리형 DB<br/>- 기기간 공동작업 지원<br/>- 강력한 보안성|
 |<center><b>AI</b></center>|\[서비스 개수\]<br/>- 25개<br/><br/>\[주요 서비스\]<br/>- Amazon SageMaker<br/>- Amazon Polly<br/><br/>\[특징\]<br/>- 최대 10배 생산성 향상<br/>- 우수한 성능<br/>- 최적화 알고리즘<br/>- 자동화 기능|\[서비스 개수\]<br/>- 5개<br/><br/>\[주요 서비스\]<br/>- 머신 러닝<br/>- Azure Bot Service<br/><br/>\[특징\]<br/>- 모든 기술 생산성 향상<br/>- 수명 주기 관리 기능<br/>- 오픈소스 프레임워크, 언어에 최고 수준 지원|\[서비스 개수\]<br/>- 13개<br/><br/>\[주요 서비스\]<br/>- Vision AI<br/>- Cloud Translation<br/><br/>\[특징\]<br/>- 뛰어난 확장성<br/>- 간편한 통합<br/>- 경제적인 가격<br/>- 고품질 데이터 제공|
 
-## Reference
+## References
+
 - [Amazon Web Services](https://aws.amazon.com/ko/)
 - [Microsoft Azure](https://azure.microsoft.com/ko-kr/)
 - [Google Cloud](https://cloud.google.com/?hl=ko)

@@ -222,7 +222,7 @@ public class MainClass {
 👉 말은 뛰고(run) 탈 수 있다(is ridable).<br/>
 👉 캥거루는 뛰지만(run) 탈 수 없다(is not ridable).
 
-## Reference
+## References
 
 - [Difference between Abstract Class and Interface in Java](https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-java/)
 - [[01] 추상클래스와 인터페이스의 차이가 뭐죠?](https://cbw1030.tistory.com/47)
