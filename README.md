@@ -18,6 +18,7 @@
 
 #### `Operating System`
 - [[Operating System] 컴파일, 링크, 빌드 (Compile, Link, Build)](https://da-nyee.github.io/posts/operating-system-compile-link-build/)
+- [[Operating System] 동기 vs 비동기 (Synchronous vs Asynchronous)](https://da-nyee.github.io/posts/operation-system-synchronous-asynchronous/)
 
 #### `Python`
 - [[Python] 양의 무한대(inf), 음의 무한대(-inf) 표시](https://da-nyee.github.io/posts/python-infinity/)
