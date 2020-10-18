@@ -10,10 +10,10 @@
 
 title: da-nyee                              # the main title
 
-tagline: 인생은 유노윤호처럼 👩‍💻             # it will display as the sub-title
+tagline: To make each day count ✨         # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Make Each Day Count.
+  To make each day count ✨
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://da-nyee.github.io'
