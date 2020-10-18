@@ -16,11 +16,11 @@ title: About
 컴퓨터공학과 4학년 재학중
 
 ### 💪 **좌우명**
-인생은 유노윤호처럼 👩‍💻
+매일매일을 소중하게 ✨
 
 ### 🎈 **관심 분야**
 - 서버/백엔드 개발 (Java, Spring Framework)
-- 인공지능 (Python)
+- 인공지능 (Python, Keras)
 - 클라우드 (AWS)
 - Git
 
@@ -32,13 +32,11 @@ title: About
 Studying Computer Science in the 4th year.
 
 ### 💪 **Motto**
-Let's live like *U-know Yunho 👩‍💻.
-
-*: One of the most passionate people in South Korea.
+To make each day count ✨
 
 ### 🎈 **Interest**
 - Server/Backend Development (Java, Spring Framework)
-- Artificial Intelligence (Python)
+- Artificial Intelligence (Python, Keras)
 - Cloud Computing Services (AWS)
 - Git
 
