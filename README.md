@@ -4,6 +4,9 @@
 [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
 
 ### Posts
+#### `Algorithms`
+- [[Algorithms] 이분 탐색 (Binary Search)](https://da-nyee.github.io/posts/algorithms-binary-search/)
+
 #### `Cloud Computing`
 - [[Cloud Computing] AWS, Azure, GCP 비교](https://da-nyee.github.io/posts/aws-azure-gcp-comparison/)
 
