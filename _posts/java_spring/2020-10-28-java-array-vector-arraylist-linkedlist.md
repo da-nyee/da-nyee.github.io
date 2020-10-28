@@ -1,5 +1,5 @@
 ---
-title: '[Java] Array, ArrayList, LinkedList'
+title: '[Java] Array, Vector, ArrayList, LinkedList'
 author: da-nyee
 date: 2020-10-28 23:48:02 +0900
 categories: [TIL, Java]
