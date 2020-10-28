@@ -20,7 +20,7 @@ tags: [spring, dao, dto, vo]
 
 ### Additional Information 2
 
-- `Repository`는 JAP를 사용할 때 DAO의 역할을 대신한다.
+- `Repository`는 JPA를 사용할 때 DAO의 역할을 대신한다.
 - JPA와 같은 ORM을 사용하면 객체(Entity) 단위로 테이블을 관리한다.
 
 ## DTO
