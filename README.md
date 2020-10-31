@@ -6,6 +6,7 @@
 ### Posts
 #### `Algorithms`
 - [[Algorithms] 이분 탐색 (Binary Search)](https://da-nyee.github.io/posts/algorithms-binary-search/)
+- [[Algorithms] 정렬 알고리즘 (Sorting Algorithms)](https://da-nyee.github.io/posts/algorithms-sorting-algorithms/)
 
 #### `Cloud Computing`
 - [[Cloud Computing] AWS, Azure, GCP 비교](https://da-nyee.github.io/posts/aws-azure-gcp-comparison/)
