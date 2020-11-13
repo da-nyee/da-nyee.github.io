@@ -31,5 +31,8 @@
 #### `Spring`
 - [[Spring] DAO, DTO, VO](https://da-nyee.github.io/posts/spring-dao-dto-vo/)
 
+#### `Web`
+- [[Web] CORS](https://da-nyee.github.io/posts/web-cors/)
+
 ### License
 This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
