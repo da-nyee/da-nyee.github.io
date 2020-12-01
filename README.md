@@ -17,6 +17,9 @@
 #### `Git`
 - [[Git] 깃 커밋 메시지 컨벤션 (Git Commit Message Convention)](https://da-nyee.github.io/posts/git-git-commit-message-convention/)
 
+#### `IntelliJ`
+- [[IntelliJ] 콘솔 한글 깨짐 (Console Encoding Issue)](https://da-nyee.github.io/posts/intellij-console-encoding-issue/)
+
 #### `Java`
 - [[Java] 추상 메서드 vs 인터페이스 (Abstract Class vs Interface)](https://da-nyee.github.io/posts/java-abstract-class-vs-interface/)
 - [[Java] Array, ArrayList, LinkedList](https://da-nyee.github.io/posts/java-array-vector-arraylist-linkedlist/)
