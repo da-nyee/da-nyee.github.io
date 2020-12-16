@@ -4,6 +4,12 @@
 [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
 
 ### Posts
+> RETROSPECTIVE
+- [[우아한테크코스] 우아한테크코스 프리코스 회고](https://da-nyee.github.io/posts/woowacourse-precourse-retrospective/)
+
+<br/>
+
+> TIL
 #### `Algorithms`
 - [[Algorithms] 이분 탐색 (Binary Search)](https://da-nyee.github.io/posts/algorithms-binary-search/)
 - [[Algorithms] 정렬 알고리즘 (Sorting Algorithms)](https://da-nyee.github.io/posts/algorithms-sorting-algorithms/)
