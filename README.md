@@ -6,6 +6,7 @@
 ### Posts
 > RETROSPECTIVE
 - [[우아한테크코스] 우아한테크코스 프리코스 회고](https://da-nyee.github.io/posts/woowacourse-precourse-retrospective/)
+- [[우아한테크코스] 우아한테크코스 최종 코딩 테스트 회고](https://da-nyee.github.io/posts/woowacourse-final-coding-test-retrospective/)
 
 <br/>
 
