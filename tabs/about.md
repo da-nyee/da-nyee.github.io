@@ -13,7 +13,7 @@ title: About
 > 한국어
 
 ### 💻 **학업**
-컴퓨터공학과 4학년 재학중
+가천대학교 컴퓨터공학과 (2016.03 ~)
 
 ### 💪 **좌우명**
 매일매일을 소중하게 ✨
@@ -29,7 +29,7 @@ title: About
 > ENGLISH
 
 ### 💻 **Education**
-Studying Computer Science in the 4th year.
+Undergraduate Student in Computer Science at Gachon University (2016.03 ~)
 
 ### 💪 **Motto**
 To make each day count ✨
@@ -37,7 +37,7 @@ To make each day count ✨
 ### 🎈 **Interest**
 - Server/Backend Development (Java, Spring Framework)
 - Artificial Intelligence (Python, Keras)
-- Cloud Computing Services (AWS)
+- Cloud Computing (AWS)
 - Git
 
 <br/>
