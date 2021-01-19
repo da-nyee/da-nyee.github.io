@@ -14,6 +14,9 @@
 - [[Algorithms] 이분 탐색 (Binary Search)](https://da-nyee.github.io/posts/algorithms-binary-search/)
 - [[Algorithms] 정렬 알고리즘 (Sorting Algorithms)](https://da-nyee.github.io/posts/algorithms-sorting-algorithms/)
 
+#### Audio
+- [[Audio] 음성 데이터 자르기 (How to trim audio data with librosa)](https://da-nyee.github.io/posts/audio-how-to-trim-audio-data-with-librosa/)
+
 #### Cloud Computing
 - [[Cloud Computing] AWS, Azure, GCP 비교](https://da-nyee.github.io/posts/aws-azure-gcp-comparison/)
 
