@@ -44,6 +44,9 @@
 #### Spring
 - [[Spring] DAO, DTO, VO](https://da-nyee.github.io/posts/spring-dao-dto-vo/)
 
+#### Statistics
+- [[Statistics] 평균, 분산, 표준편차 (Average, Variance, Standard Deviation)](https://da-nyee.github.io/posts/statistics-average-variance-standard-deviation/)
+
 #### Web
 - [[Web] CORS](https://da-nyee.github.io/posts/web-cors/)
 
