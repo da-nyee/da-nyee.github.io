@@ -13,7 +13,7 @@ title: About
 > 한국어
 
 ### 💻 **학업**
-가천대학교 컴퓨터공학과 (2016.03 ~)
+가천대학교 컴퓨터공학과 (2016.03 –)
 
 ### 💪 **좌우명**
 매일매일을 소중하게 ✨
@@ -29,7 +29,7 @@ title: About
 > ENGLISH
 
 ### 💻 **Education**
-Undergraduate Student in Computer Science at Gachon University (2016.03 ~)
+Undergraduate Student in Computer Science at Gachon University (Mar 2016 –)
 
 ### 💪 **Motto**
 To make each day count ✨
