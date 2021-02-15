@@ -23,6 +23,9 @@
 #### Data Structures
 - [[Data Structures] 트라이 (Trie)](https://da-nyee.github.io/posts/data-structures-trie/)
 
+#### Design Pattern
+- [[Design Pattern] SOLID 원칙 (SOLID Principles)](https://da-nyee.github.io/posts/design-pattern-solid-principles/)
+
 #### Git
 - [[Git] 깃 커밋 메시지 컨벤션 (Git Commit Message Convention)](https://da-nyee.github.io/posts/git-git-commit-message-convention/)
 - [[Git] git reset --hard 되돌리기 (feat. git reflog)](https://da-nyee.github.io/posts/git-git-reset-git-reflog/)
