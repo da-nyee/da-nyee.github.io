@@ -13,7 +13,11 @@ title: About
 > 한국어
 
 ### 💻 **학업**
+우아한테크코스 3기 (2021.02 –)<br/>
 가천대학교 컴퓨터공학과 (2016.03 –)
+
+### 💎 **경험**
+Ericsson-LG R&D 인턴 (2019.07 – 2019.08)
 
 ### 💪 **좌우명**
 매일매일을 소중하게 ✨
@@ -29,7 +33,11 @@ title: About
 > ENGLISH
 
 ### 💻 **Education**
+Woowahan Tech Course 3rd (2021.02 –)<br/>
 Undergraduate Student in Computer Science at Gachon University (Mar 2016 –)
+
+### 💎 **Experience**
+Research and Development Intern at Ericsson-LG (Jul 2019 – Aug 2019)
 
 ### 💪 **Motto**
 To make each day count ✨
