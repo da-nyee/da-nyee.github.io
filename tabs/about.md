@@ -33,7 +33,7 @@ Ericsson-LG R&D 인턴 (2019.07 – 2019.08)
 > ENGLISH
 
 ### 💻 **Education**
-Woowahan Tech Course 3rd (2021.02 –)<br/>
+Woowahan Tech Course 3rd (Feb 2021 –)<br/>
 Undergraduate Student in Computer Science at Gachon University (Mar 2016 –)
 
 ### 💎 **Experience**
