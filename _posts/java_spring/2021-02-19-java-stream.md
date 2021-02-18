@@ -1,7 +1,7 @@
 ---
 title: '[Java] 스트림 (Stream)'
 author: da-nyee
-date: 2021-02-18 02:51:16 +0900
+date: 2021-02-19 02:02:36 +0900
 categories: [TIL, Java]
 tags: [java, stream]
 ---
@@ -62,7 +62,6 @@ public class Application {
     }
 }
 ```
-
 ```
 // 결과
 홍길동: main
@@ -100,7 +99,6 @@ public class Application {
     }
 }
 ```
-
 ```
 // 결과
 평균 점수: 20.0
@@ -109,6 +107,36 @@ public class Application {
 ### Types
 
 - <b>java.util.stream</b> 패키지에 stream API들이 포진되어 있다.
+
+![stream_types](https://user-images.githubusercontent.com/50176238/108312237-bc9af780-71f9-11eb-9111-8833622b323e.PNG)<br/>
+
+- <b>BaseStream 인터페이스</b>에는 모든 스트림에서 사용할 수 있는 <b>공통 메소드들</b>이 정의되어 있다. 코드에서 직접 사용하지는 않는다.
+- <b>Stream, IntStream, LongStream, DoubleStream</b>은 BaseStream 인터페이스의 <b>구현체들</b>이다. 코드에서 직접 사용된다.
+    - Stream: 객체 요소를 처리하는 스트림
+    - IntStream: int 요소를 처리하는 스트림
+    - LongStream: long 요소를 처리하는 스트림
+    - DoubleStream: double 요소를 처리하는 스트림
+- 숫자 범위로부터 스트림을 얻는 방법?
+    - IntStream의 <b>rangeClosed()</b>를 이용한다.
+        - <b>첫 번째 매개값부터 두 번째 매개값</b>까지 순차적으로 제공한다.
+    - IntStream의 <b>range()</b>를 이용한다.
+        - <b>첫 번째 매개값부터 두 번째 매개값-1</b>까지 순차적으로 제공한다.
+
+```
+public class Application {
+    public static int sum;
+
+    public static void main(String[] args) {
+        IntStream.rangeClosed(1, 100)
+                .forEach(value -> sum += value);
+        System.out.println("총합: " + sum);
+    }
+}
+```
+```
+// 결과
+총합: 5050
+```
 
 ### Methods
 
