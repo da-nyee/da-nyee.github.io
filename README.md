@@ -36,6 +36,7 @@
 #### Java
 - [[Java] 추상 메서드 vs 인터페이스 (Abstract Class vs Interface)](https://da-nyee.github.io/posts/java-abstract-class-vs-interface/)
 - [[Java] Array, ArrayList, LinkedList](https://da-nyee.github.io/posts/java-array-vector-arraylist-linkedlist/)
+- [[Java] 스트림 (Stream)](https://da-nyee.github.io/posts/java-stream/)
 
 #### Operating System
 - [[Operating System] 컴파일, 링크, 빌드 (Compile, Link, Build)](https://da-nyee.github.io/posts/operating-system-compile-link-build/)
