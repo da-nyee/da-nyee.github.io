@@ -1,13 +1,15 @@
-## da-nyee.github.io
+# da-nyee.github.io
 [![Build Status](https://github.com/cotes2020/jekyll-theme-chirpy/workflows/build/badge.svg?branch=master&event=push)](https://github.com/cotes2020/jekyll-theme-chirpy/actions?query=branch%3Amaster+event%3Apush)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8220b926db514f13afc3f02b7f884f4b)](https://app.codacy.com/manual/cotes2020/jekyll-theme-chirpy?utm_source=github.com&utm_medium=referral&utm_content=cotes2020/jekyll-theme-chirpy&utm_campaign=Badge_Grade_Dashboard)
 [![GitHub license](https://img.shields.io/github/license/da-nyee/da-nyee.github.io)](https://github.com/da-nyee/da-nyee.github.io/blob/master/LICENSE)
 
-### Posts
+## Posts
 > EDUCATION
 #### Woowa Course
 - [[우아한테크코스] 우아한테크코스 프리코스 회고](https://da-nyee.github.io/posts/woowa-course-precourse-retrospective/)
 - [[우아한테크코스] 우아한테크코스 최종 코딩 테스트 회고](https://da-nyee.github.io/posts/woowa-course-final-coding-test-retrospective/)
+
+<br/>
 
 > TIL
 #### Algorithms
@@ -54,5 +56,7 @@
 #### Web
 - [[Web] CORS](https://da-nyee.github.io/posts/web-cors/)
 
-### License
+<br/>
+
+## License
 This work is published under [MIT](https://github.com/da-nyee/da-nyee.github.io/blob/master/LICENSE) License.
