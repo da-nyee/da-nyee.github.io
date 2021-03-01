@@ -8,6 +8,7 @@
 #### Woowa Course
 - [[우아한테크코스] 우아한테크코스 프리코스 회고](https://da-nyee.github.io/posts/woowa-course-precourse-retrospective/)
 - [[우아한테크코스] 우아한테크코스 최종 코딩 테스트 회고](https://da-nyee.github.io/posts/woowa-course-final-coding-test-retrospective/)
+- [[우아한테크코스] 코드 테스트가 중요한 이유 (Why code testing is important)](https://da-nyee.github.io/posts/woowa-course-why-code-testing-is-important/)
 
 <br/>
 
