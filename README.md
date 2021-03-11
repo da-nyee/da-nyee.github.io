@@ -42,6 +42,7 @@
 - [[Java] 스트림 (Stream)](https://da-nyee.github.io/posts/java-stream/)
 - [[Java] 문자열 (String)](https://da-nyee.github.io/posts/java-string/)
 - [[Java] HashMap vs LinkedHashMap](https://da-nyee.github.io/posts/java-hashmap-vs-likedhashmap/)
+- [[Java] flatMap으로 중첩 루프 없애는 방법 (How to remove nested loops using flatMap)](https://da-nyee.github.io/posts/java-how-to-remove-nested-loops-using-flatmap/)
 
 #### Operating System
 - [[Operating System] 컴파일, 링크, 빌드 (Compile, Link, Build)](https://da-nyee.github.io/posts/operating-system-compile-link-build/)
