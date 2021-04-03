@@ -10,6 +10,7 @@
 - [[우아한테크코스] 우아한테크코스 최종 코딩 테스트 회고](https://da-nyee.github.io/posts/woowa-course-final-coding-test-retrospective/)
 - [[우아한테크코스] 코드 테스트가 중요한 이유 (Why code testing is important)](https://da-nyee.github.io/posts/woowa-course-why-code-testing-is-important/)
 - [[우아한테크코스] 싱글톤 패턴은 객체지향적일까? (Is the singleton pattern object-oriented?)](https://da-nyee.github.io/posts/woowa-course-is-the-singleton-pattern-object-oriented/)
+- [[우아한테크코스] SQL 퀴즈 및 정답 (SQL Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-sql-quizzes-and-answers/)
 
 <br/>
 
