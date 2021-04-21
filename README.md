@@ -12,6 +12,7 @@
 - [[우아한테크코스] 싱글톤 패턴은 객체지향적일까? (Is the singleton pattern object-oriented?)](https://da-nyee.github.io/posts/woowa-course-is-the-singleton-pattern-object-oriented/)
 - [[우아한테크코스] SQL 퀴즈 및 정답 (SQL Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-sql-quizzes-and-answers/)
 - [[우아한테크코스] 우아한테크코스 한 달 생활기](https://da-nyee.github.io/posts/woowa-course-writing-level1/)
+- [[우아한테크코스] 다니의 학습 로그 - 레벨 1](https://da-nyee.github.io/posts/woowa-course-learning-log-level1/)
 
 <br/>
 
