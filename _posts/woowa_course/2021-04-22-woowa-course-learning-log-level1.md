@@ -16,6 +16,7 @@ tags: [woowa course, learning log, level1]
   - 다음으로, 컴파일 에러가 나지 않을 정도의 프로덕션 코드를 작성함
   - 다음으로, 기능 요구사항 대로 결과가 나타나는 프로덕션 코드를 작성함
   - 마지막으로, 리팩토링을 통해 코드 컨벤션을 확인하고 클린 코드가 되도록 변경함
+
 ### 링크
 - https://github.com/da-nyee/java-lotto/tree/step1/src/test/java/domain
 
@@ -23,6 +24,7 @@ tags: [woowa course, learning log, level1]
 ### 내용
 - LottoTicket, LottoTickets 객체를 도출하여 `규칙 8: 일급 콜렉션을 쓴다.`를 지킴
 - 지금까지 잘못 알고 있던 개념을 다시 확인하고 이해함
+
 ### 링크
 - [일급 컬렉션 (First Class Collection)의 소개와 써야할 이유](https://jojoldu.tistory.com/412)
 - https://github.com/da-nyee/java-lotto/blob/step1/src/main/java/domain/LottoTicket.java
@@ -32,6 +34,7 @@ tags: [woowa course, learning log, level1]
 ### 내용
 - LottoNumber, Money, Profit 객체를 도출하여 `규칙 3: 모든 원시값과 문자열을 포장한다.`를 지킴
 - 지난 미션까지는 방법을 잘 몰랐으나, 이번 미션에서 직접 코드로 구현하며 습득함
+
 ### 링크
 - https://github.com/da-nyee/java-lotto/blob/step1/src/main/java/domain/LottoNumber.java
 - https://github.com/da-nyee/java-lotto/blob/step1/src/main/java/domain/Money.java
@@ -41,6 +44,7 @@ tags: [woowa course, learning log, level1]
 ### 내용
 - Rank 객체를 도출하여 `java enum을 적용해 프로그래밍을 구현한다.`를 지킴
 - 여태 enum은 상수를 모아두는 용도로만 사용했는데, 이번 기회를 통해 enum의 다양한 활용 방식을 이해함
+
 ### 링크
 - [Java Enum 활용기](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 - https://github.com/da-nyee/java-lotto/blob/step1/src/main/java/domain/Rank.java
@@ -49,6 +53,7 @@ tags: [woowa course, learning log, level1]
 ### 내용
 - 가능한 외부 반복자를 지양하고, 내부 반복자를 지향하려고 노력함
 - 스트링에 익숙해지고자 여러 스트림 API를 사용함
+
 ### 링크
 - [[Java] 스트림 (Stream)](https://da-nyee.github.io/posts/java-stream/)
 
@@ -56,6 +61,7 @@ tags: [woowa course, learning log, level1]
 ### 내용
 - 런타임 시 제네릭 정보가 지워진다는 것을 알게 됨
 - 따라서, 메소드 오버로딩이 불가능함
+
 ### 링크
 - [Name clash: Two methods have the same erasure](https://coderanch.com/t/706161/java/clash-methods-erasure)
 
@@ -63,6 +69,7 @@ tags: [woowa course, learning log, level1]
 ### 내용
 - 초기화 블럭과 static 초기화 블럭의 존재를 알게 됨
 - 둘의 차이를 이해함
+
 ### 링크
 - [[Java-14]초기화와 초기화블럭(Initialize Block)](https://kamang-it.tistory.com/entry/Java-14%EC%B4%88%EA%B8%B0%ED%99%94%EC%99%80-%EC%B4%88%EA%B8%B0%ED%99%94%EB%B8%94%EB%9F%ADInitialize-Block)
 
