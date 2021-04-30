@@ -59,7 +59,7 @@
 
 #### Spring
 - [[Spring] DAO, DTO, VO](https://da-nyee.github.io/posts/spring-dao-dto-vo/)
-- [[Spring] Entity vs DTO](https://da-nyee.github.io/posts/spring-entity-dto/)
+- [[Spring] Entity vs DTO](https://da-nyee.github.io/posts/spring-entity-vs-dto/)
 
 #### Statistics
 - [[Statistics] 평균, 분산, 표준편차 (Average, Variance, Standard Deviation)](https://da-nyee.github.io/posts/statistics-average-variance-standard-deviation/)
