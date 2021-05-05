@@ -14,6 +14,7 @@
 - [[우아한테크코스] 우아한테크코스 한 달 생활기](https://da-nyee.github.io/posts/woowa-course-writing-level1/)
 - [[우아한테크코스] 다니의 학습 로그 - 레벨 1](https://da-nyee.github.io/posts/woowa-course-learning-log-level1/)
 - [[우아한테크코스] 배포 퀴즈 및 정답 (Deployment Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-deployment-quizzes-and-answers/)
+- [[우아한테크코스] 운영 퀴즈 및 정답 (Operation Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-operation-quizzes-and-answers/)
 
 <br/>
 
