@@ -51,7 +51,6 @@
 - [[Java] flatMap으로 중첩 루프 없애는 방법 (How to remove nested loops using flatMap)](https://da-nyee.github.io/posts/java-how-to-remove-nested-loops-using-flatmap/)
 - [[Java] try-with-resources](https://da-nyee.github.io/posts/java-try-with-resources/)
 - [[Java] String vs StringBuffer vs StringBuilder](https://da-nyee.github.io/posts/java-string-vs-stringbuffer-vs-stringbuilder/)
-- [[Spring] HandlerMethodArgumentResolver](https://da-nyee.github.io/posts/spring-handlermethodargumentresolver/)
 
 #### Operating System
 - [[Operating System] 컴파일, 링크, 빌드 (Compile, Link, Build)](https://da-nyee.github.io/posts/operating-system-compile-link-build/)
@@ -63,6 +62,7 @@
 #### Spring
 - [[Spring] DAO, DTO, VO](https://da-nyee.github.io/posts/spring-dao-dto-vo/)
 - [[Spring] Entity vs DTO](https://da-nyee.github.io/posts/spring-entity-vs-dto/)
+- [[Spring] HandlerMethodArgumentResolver](https://da-nyee.github.io/posts/spring-handlermethodargumentresolver/)
 
 #### Statistics
 - [[Statistics] 평균, 분산, 표준편차 (Average, Variance, Standard Deviation)](https://da-nyee.github.io/posts/statistics-average-variance-standard-deviation/)
