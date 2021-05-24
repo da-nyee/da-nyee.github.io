@@ -15,7 +15,7 @@ tags: [spring, entity, dto]
 <img width="218" alt="piece_table" src="https://user-images.githubusercontent.com/50176238/116714341-a1761080-aa10-11eb-99dd-ab2f9ebcfcc1.png">
 
 - JPA를 사용하는 경우 @Entity 어노테이션을 명시해야 한다. 👉 Entity 클래스임을 지정한다.
-- DB 테이블과 `1:1`로 매핑된다.
+- DB 테이블과 `1:n`으로 매핑된다.
 
 ```
 @Entity
