@@ -18,6 +18,7 @@
 
 #### Javable
 - [[Javable] 웹 MVC 각 컴포넌트 역할](https://da-nyee.github.io/posts/javable-web-mvc-components-role/)
+- [[Javable] DTO vs VO vs Entity](https://da-nyee.github.io/posts/javable-dto-vs-vo-vs-entity/)
 
 <br/>
 
