@@ -56,6 +56,9 @@
 - [[Java] try-with-resources](https://da-nyee.github.io/posts/java-try-with-resources/)
 - [[Java] String vs StringBuffer vs StringBuilder](https://da-nyee.github.io/posts/java-string-vs-stringbuffer-vs-stringbuilder/)
 
+#### Linux
+- [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-commands/)
+
 #### Operating System
 - [[Operating System] 컴파일, 링크, 빌드 (Compile, Link, Build)](https://da-nyee.github.io/posts/operating-system-compile-link-build/)
 - [[Operating System] 동기 vs 비동기 (Synchronous vs Asynchronous)](https://da-nyee.github.io/posts/operation-system-synchronous-asynchronous/)
