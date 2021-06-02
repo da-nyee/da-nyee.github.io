@@ -57,7 +57,8 @@
 - [[Java] String vs StringBuffer vs StringBuilder](https://da-nyee.github.io/posts/java-string-vs-stringbuffer-vs-stringbuilder/)
 
 #### Linux
-- [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-commands/)
+- [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-netstat-command/)
+- [[Linux] pidof 명령어 (pidof Command)](https://da-nyee.github.io/posts/linux-pidof-command/)
 
 #### Operating System
 - [[Operating System] 컴파일, 링크, 빌드 (Compile, Link, Build)](https://da-nyee.github.io/posts/operating-system-compile-link-build/)
