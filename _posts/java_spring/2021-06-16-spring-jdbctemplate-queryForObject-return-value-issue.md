@@ -3,7 +3,7 @@ title: '[Spring] JdbcTemplate queryForObject() - Return Value Issue'
 author: da-nyee
 date: 2021-06-16 04:06:52 +0900
 categories: [TIL, Spring]
-tags: [spring, jdbctemplate, queryforobject, return value, issue]
+tags: [spring, jdbctemplate, queryforobject(), return value, issue]
 ---
 
 ## Introduction
