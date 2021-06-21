@@ -6,14 +6,16 @@ categories: [TIL, Java]
 tags: [java, gradle, dependency, configurations]
 ---
 
-## compileClassPath
+## compileClasspath
 - 컴파일 시에 필요한 class path
 
-## runtimeClassPath
+## runtimeClasspath
 - 런타임 시에 필요한 class path
 - 보통, compile하면 compile path에도 있고 runtime path에도 있다.
 
 <br/>
+
+![gradle-configurations](https://user-images.githubusercontent.com/50176238/122738296-d38f4a80-d2bc-11eb-9124-f8f89a266c0f.png)
 
 ## compileOnly
 - 컴파일 시에만 필요하고, 런타임 시에는 불필요한 경우
