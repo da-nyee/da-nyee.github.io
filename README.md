@@ -57,6 +57,7 @@
 - [[Java] flatMap으로 중첩 루프 없애는 방법 (How to remove nested loops using flatMap)](https://da-nyee.github.io/posts/java-how-to-remove-nested-loops-using-flatmap/)
 - [[Java] try-with-resources](https://da-nyee.github.io/posts/java-try-with-resources/)
 - [[Java] String vs StringBuffer vs StringBuilder](https://da-nyee.github.io/posts/java-string-vs-stringbuffer-vs-stringbuilder/)
+- [[Java] Gradle Dependency Configurations](https://da-nyee.github.io/posts/java-gradle-dependency-configurations/)
 
 #### Linux
 - [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-netstat-command/)
