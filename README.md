@@ -17,6 +17,7 @@
 - [[우아한테크코스] 운영 퀴즈 및 정답 (Operation Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-operation-quizzes-and-answers/)
 - [[우아한테크코스] 기본 생성자가 필요한 이유 (Why the default constructor is needed) (feat. Jackson ObjectMapper + Reflection)
 ](https://da-nyee.github.io/posts/woowa-course-why-the-default-constructor-is-needed/)
+- [[우아한테크코스] 다니의 학습 로그 - 레벨 2](https://da-nyee.github.io/posts/woowa-course-learning-log-level2/)
 
 #### Javable
 - [[Javable] 웹 MVC 각 컴포넌트 역할](https://da-nyee.github.io/posts/javable-web-mvc-components-role/)
