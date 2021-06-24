@@ -22,6 +22,7 @@
 #### Javable
 - [[Javable] 웹 MVC 각 컴포넌트 역할](https://da-nyee.github.io/posts/javable-web-mvc-components-role/)
 - [[Javable] DTO vs VO vs Entity](https://da-nyee.github.io/posts/javable-dto-vs-vo-vs-entity/)
+- [[Javable] 단위 테스트 vs 통합 테스트 vs 인수 테스트](https://da-nyee.github.io/posts/javable-unit-test-vs-integration-test-vs-acceptance-test/)
 
 <br/>
 
