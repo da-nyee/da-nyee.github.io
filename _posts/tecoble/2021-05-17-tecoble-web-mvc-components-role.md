@@ -1,12 +1,12 @@
 ---
-title: '[Javable] 웹 MVC 각 컴포넌트 역할'
+title: '[Tecoble] 웹 MVC 각 컴포넌트 역할'
 author: da-nyee
 date: 2021-05-17 00:29:39 +0900
-categories: [EDUCATION, Javable]
-tags: [javable, web mvc, components, role]
+categories: [EDUCATION, Tecoble]
+tags: [tecoble, web mvc, components, role]
 ---
 
-> 제가 작성한 원글은 [여기서](https://woowacourse.github.io/javable/post/2021-04-26-mvc/) 확인하실 수 있습니다.
+> 제가 작성한 원글은 [여기서](https://woowacourse.github.io/tecoble/post/2021-04-26-mvc/) 확인하실 수 있습니다.
 
 <br/>
 

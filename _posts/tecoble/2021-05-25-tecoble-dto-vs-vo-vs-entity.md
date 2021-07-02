@@ -1,12 +1,12 @@
 ---
-title: '[Javable] DTO vs VO vs Entity'
+title: '[Tecoble] DTO vs VO vs Entity'
 author: da-nyee
 date: 2021-05-25 01:42:05 +0900
-categories: [EDUCATION, Javable]
-tags: [javable, dto, vo, entity]
+categories: [EDUCATION, Tecoble]
+tags: [tecoble, dto, vo, entity]
 ---
 
-> 제가 작성한 원글은 [여기서](https://woowacourse.github.io/javable/post/2021-05-16-dto-vs-vo-vs-entity/) 확인하실 수 있습니다.
+> 제가 작성한 원글은 [여기서](https://woowacourse.github.io/tecoble/post/2021-05-16-dto-vs-vo-vs-entity/) 확인하실 수 있습니다.
 
 <br/>
 

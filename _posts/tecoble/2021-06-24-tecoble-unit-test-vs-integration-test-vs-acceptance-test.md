@@ -1,12 +1,12 @@
 ---
-title: '[Javable] 단위 테스트 vs 통합 테스트 vs 인수 테스트'
+title: '[Tecoble] 단위 테스트 vs 통합 테스트 vs 인수 테스트'
 author: da-nyee
 date: 2021-06-24 14:35:16 +0900
-categories: [EDUCATION, Javable]
-tags: [javable, unit test, integration test, acceptance test]
+categories: [EDUCATION, Tecoble]
+tags: [tecoble, unit test, integration test, acceptance test]
 ---
 
-> 제가 작성한 원글은 [여기서](https://woowacourse.github.io/javable/post/2021-05-25-unit-test-vs-integration-test-vs-acceptance-test/) 확인하실 수 있습니다.
+> 제가 작성한 원글은 [여기서](https://woowacourse.github.io/tecoble/post/2021-05-25-unit-test-vs-integration-test-vs-acceptance-test/) 확인하실 수 있습니다.
 
 <br/>
 

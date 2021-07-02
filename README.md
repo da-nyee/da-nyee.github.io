@@ -5,6 +5,11 @@
 
 ## Posts
 > EDUCATION
+#### Tecoble
+- [[Tecoble] 웹 MVC 각 컴포넌트 역할](https://da-nyee.github.io/posts/tecoble-web-mvc-components-role/)
+- [[Tecoble] DTO vs VO vs Entity](https://da-nyee.github.io/posts/tecoble-dto-vs-vo-vs-entity/)
+- [[Tecoble] 단위 테스트 vs 통합 테스트 vs 인수 테스트](https://da-nyee.github.io/posts/tecoble-unit-test-vs-integration-test-vs-acceptance-test/)
+
 #### Woowa Course
 - [[우아한테크코스] 우아한테크코스 프리코스 회고](https://da-nyee.github.io/posts/woowa-course-precourse-retrospective/)
 - [[우아한테크코스] 우아한테크코스 최종 코딩 테스트 회고](https://da-nyee.github.io/posts/woowa-course-final-coding-test-retrospective/)
@@ -18,11 +23,6 @@
 - [[우아한테크코스] 기본 생성자가 필요한 이유 (Why the default constructor is needed) (feat. Jackson ObjectMapper + Reflection)
 ](https://da-nyee.github.io/posts/woowa-course-why-the-default-constructor-is-needed/)
 - [[우아한테크코스] 다니의 학습 로그 - 레벨 2](https://da-nyee.github.io/posts/woowa-course-learning-log-level2/)
-
-#### Javable
-- [[Javable] 웹 MVC 각 컴포넌트 역할](https://da-nyee.github.io/posts/javable-web-mvc-components-role/)
-- [[Javable] DTO vs VO vs Entity](https://da-nyee.github.io/posts/javable-dto-vs-vo-vs-entity/)
-- [[Javable] 단위 테스트 vs 통합 테스트 vs 인수 테스트](https://da-nyee.github.io/posts/javable-unit-test-vs-integration-test-vs-acceptance-test/)
 
 <br/>
 
