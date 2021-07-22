@@ -24,6 +24,7 @@
 - [[우아한테크코스] 기본 생성자가 필요한 이유 (Why the default constructor is needed) (feat. Jackson ObjectMapper + Reflection)
 ](https://da-nyee.github.io/posts/woowa-course-why-the-default-constructor-is-needed/)
 - [[우아한테크코스] 다니의 학습 로그 - 레벨 2](https://da-nyee.github.io/posts/woowa-course-learning-log-level2/)
+- [[우아한테크코스] 우테코에서 찾은 나만의 효과적인 공부법](https://da-nyee.github.io/posts/woowa-course-writing-level2/)
 
 <br/>
 
