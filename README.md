@@ -86,6 +86,7 @@
 - [[Spring] Interceptor - CORS Issue](https://da-nyee.github.io/posts/spring-interceptor-cors-issue/)
 - [[Spring] JdbcTemplate queryForObject() - Return Value Issue](https://da-nyee.github.io/posts/spring-jdbctemplate-queryForObject-return-value-issue/)
 - [[Spring] Spring MVC 흐름 (Spring MVC Flow)](https://da-nyee.github.io/posts/spring-spring-mvc-flow/)
+- [[Spring] @SpringBootTest vs @DataJpaTest](https://da-nyee.github.io/posts/spring-springboottest-vs-datajpatest/)
 
 #### Statistics
 - [[Statistics] 평균, 분산, 표준편차 (Average, Variance, Standard Deviation)](https://da-nyee.github.io/posts/statistics-average-variance-standard-deviation/)
