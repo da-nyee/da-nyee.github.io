@@ -23,7 +23,7 @@ Ericsson-LG R&D 인턴 &nbsp;<sub>(2019.07 – 2019.08)</sub>
 매일매일을 소중하게 ✨
 
 ### 🎈 **관심 분야**
-- 서버/백엔드 개발 &nbsp;<sub>- Java, Spring Framework)</sub>
+- 서버/백엔드 개발 &nbsp;<sub>- Java, Spring Framework</sub>
 - 클라우드 &nbsp;<sub>- AWS</sub>
 - 애자일 방법론
 - 클린 코드
