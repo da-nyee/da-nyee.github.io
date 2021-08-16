@@ -13,19 +13,20 @@ title: About
 > 한국어
 
 ### 💻 **학업**
-우아한테크코스 3기 (2021.02 –)<br/>
-가천대학교 컴퓨터공학과 (2016.03 –)
+우아한테크코스 3기 &nbsp;<sub>(2021.02 –)</sub><br/>
+가천대학교 컴퓨터공학과 &nbsp;<sub>(2016.03 –)</sub>
 
 ### 💎 **경험**
-Ericsson-LG R&D 인턴 (2019.07 – 2019.08)
+Ericsson-LG R&D 인턴 &nbsp;<sub>(2019.07 – 2019.08)</sub>
 
 ### 💪 **좌우명**
 매일매일을 소중하게 ✨
 
 ### 🎈 **관심 분야**
-- 서버/백엔드 개발 (Java, Spring Framework)
-- 인공지능 (Python, Keras)
-- 클라우드 (AWS)
+- 서버/백엔드 개발 &nbsp;<sub>- Java, Spring Framework)</sub>
+- 클라우드 &nbsp;<sub>- AWS</sub>
+- 애자일 방법론
+- 클린 코드
 - Git
 
 <br/>
@@ -33,19 +34,20 @@ Ericsson-LG R&D 인턴 (2019.07 – 2019.08)
 > ENGLISH
 
 ### 💻 **Education**
-Woowahan Tech Course 3rd (Feb 2021 –)<br/>
-Undergraduate Student in Computer Science at Gachon University (Mar 2016 –)
+Woowahan Tech Course 3rd &nbsp;<sub>(Feb 2021 –)</sub><br/>
+Undergraduate Student in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 –)</sub>
 
 ### 💎 **Experience**
-Research and Development Intern at Ericsson-LG (Jul 2019 – Aug 2019)
+Research and Development Intern at Ericsson-LG &nbsp;<sub>(Jul 2019 – Aug 2019)</sub>
 
 ### 💪 **Motto**
 To make each day count ✨
 
 ### 🎈 **Interest**
-- Server/Backend Development (Java, Spring Framework)
-- Artificial Intelligence (Python, Keras)
-- Cloud Computing (AWS)
+- Server/Backend Development &nbsp;<sub>- Java, Spring Framework</sub>
+- Cloud Computing &nbsp;<sub>- AWS</sub>
+- Agile Methodology
+- Clean Code
 - Git
 
 <br/>
