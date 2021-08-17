@@ -12,6 +12,7 @@
 - [[Tecoble] DispatcherServlet - Part 1](https://da-nyee.github.io/posts/tecoble-dispatcherservlet-part-1/)
 - [[Tecoble] DispatcherServlet - Part 2](https://da-nyee.github.io/posts/tecoble-dispatcherservlet-part-2/)
 - [[Tecoble] git submodule로 중요한 정보 관리하기](https://da-nyee.github.io/posts/tecoble-git-submodule/)
+- [[Tecoble] JPA CascadeType.REMOVE vs orphanRemoval = true](https://da-nyee.github.io/posts/jpa-cascadetype-remove-vs-orphanremoval-true/)
 
 #### Woowa Course
 - [[우아한테크코스] 우아한테크코스 프리코스 회고](https://da-nyee.github.io/posts/woowa-course-precourse-retrospective/)
