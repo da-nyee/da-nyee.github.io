@@ -48,6 +48,9 @@
 #### Design Pattern
 - [[Design Pattern] SOLID 원칙 (SOLID Principles)](https://da-nyee.github.io/posts/design-pattern-solid-principles/)
 
+#### DevOps
+- [[DevOps] SonarQube + JaCoCo](https://da-nyee.github.io/posts/devops-sonarqube-jacoco/)
+
 #### Git
 - [[Git] 깃 커밋 메시지 컨벤션 (Git Commit Message Convention)](https://da-nyee.github.io/posts/git-git-commit-message-convention/)
 - [[Git] git reset --hard 되돌리기 (feat. git reflog)](https://da-nyee.github.io/posts/git-git-reset-git-reflog/)
