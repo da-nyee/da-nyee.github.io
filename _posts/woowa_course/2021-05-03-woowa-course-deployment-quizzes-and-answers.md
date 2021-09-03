@@ -30,7 +30,8 @@ tags: [woowa course, deployment, quizzes, answers]
     - 먼저, 브라우저는 로컬 PC의 hosts 파일과 브라우저 캐시에 해당 URL이 존재하는지 확인한다.
     - 만약 존재하지 않는다면, 도메인 주소를 IP 주소로 변환해주는 DNS(Domain Name System) 서버에 요청하여 해당 URL을 IP 주소로 변환한다.
     - DNS 서버로 요청하는 과정
-        - 미리 설정된 로컬 DNS 서버에 해당 URL의 IP 주소를 요청한다. 로컬 DNS 서버에 해당 IP 주소가 존재하면 이를 응답한다. 존재하지 않으면 다른 DNS 서버와 통신한다.
+        - /etc/hosts에 해당 URL의 IP 주소가 있는지 확인한다. /etc/hosts에 해당 IP 주소가 존재하면 이를 응답한다. 존재하지 않으면 로컬(책임) DNS 서버와 통신한다.
+        - 로컬 DNS 서버에 해당 URL의 IP 주소를 요청한다. 로컬 DNS 서버에 해당 IP 주소가 존재하면 이를 응답한다. 존재하지 않으면 다른 DNS 서버와 통신한다.
         - 로컬 DNS는 root DNS 서버에 해당 URL의 IP 주소를 요청한다. root DNS 서버에 해당 IP 주소가 존재하면 이를 응답한다. 존재하지 않으면 하위 DNS 서버에 요청하라고 응답한다.
         - 로컬 DNS는 .com 도메인을 관리하는 DNS 서버에 해당 URL의 IP 주소를 요청한다. .com DNS 서버에 해당 IP 주소가 존재하면 이를 응답한다. 존재하지 않으면 하위 DNS 서버에 요청하라고 응답한다.
         - 로컬 DNS는 `google.com` 도메인을 관리하는 DNS 서버에 해당 URL의 IP 주소를 요청한다. google.com DNS 서버는 해당 IP 주소를 응답한다.
