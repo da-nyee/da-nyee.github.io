@@ -80,6 +80,7 @@
 - [[Network] L2 오류 제어 vs L4 오류 제어 (L2 Error Handling vs L4 Error Handling)](https://da-nyee.github.io/posts/network-l2-error-handlingvs-l4-error-handling/)
 - [[Network] OAuth 2.0 흐름 (OAuth 2.0 Flow)](https://da-nyee.github.io/posts/network-oauth2.0-flow/)
 - [[Network] REST와 RESTful (REST and RESTful)](https://da-nyee.github.io/posts/network-rest-restful/)
+- [[Network] Nginx에 HTTP 2.0을 적용하는 방법 (How to set up Nginx with HTTP 2.0)](https://da-nyee.github.io/posts/network-how-to-set-up-nginx-with-http2.0/)
 
 #### Operating System
 - [[Operating System] 컴파일, 링크, 빌드 (Compile, Link, Build)](https://da-nyee.github.io/posts/operating-system-compile-link-build/)
