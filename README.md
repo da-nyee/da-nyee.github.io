@@ -4,6 +4,12 @@
 [![GitHub license](https://img.shields.io/github/license/da-nyee/da-nyee.github.io)](https://github.com/da-nyee/da-nyee.github.io/blob/master/LICENSE)
 
 ## Posts
+> BOOKS
+#### Real MySQL
+- [[Real MySQL] 05. 트랜잭션과 잠금](https://da-nyee.github.io/posts/real-mysql-05/)
+
+<br/>
+
 > EDUCATION
 #### Tecoble
 - [[Tecoble] 웹 MVC 각 컴포넌트 역할](https://da-nyee.github.io/posts/tecoble-web-mvc-components-role/)
