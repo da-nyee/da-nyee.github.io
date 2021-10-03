@@ -51,6 +51,9 @@
 #### Data Structures
 - [[Data Structures] 트라이 (Trie)](https://da-nyee.github.io/posts/data-structures-trie/)
 
+#### Database
+- [[Database] DB Replication을 구성한 이유 (Why DB Replication is set up)](https://da-nyee.github.io/posts/why-db-replication-is-set-up/)
+
 #### Design Pattern
 - [[Design Pattern] SOLID 원칙 (SOLID Principles)](https://da-nyee.github.io/posts/design-pattern-solid-principles/)
 
