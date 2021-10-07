@@ -44,7 +44,7 @@ ORDER BY O.Sum_Quantity DESC;
 ```sql
 SELECT C.CustomerID, C.CustomerName, OODP.Result
 FROM Customers AS C
-JOIN (
+LEFT JOIN (
 	SELECT O.CustomerID, sum(ODP.TotalPrice) AS Result
 	FROM Orders AS O
 	JOIN (
