@@ -81,9 +81,9 @@ tags: [database, embedded redis, m1, arm]
 <br/>
 
 앞에서 `redis-server`가 잘 실행됐다면, 해당 파일의 이름을 변경하여 프로젝트에 추가한다.<br/>
-이때, resources 디렉토리 아래에 복사해야 한다.<br/>
+이때, resources 디렉토리 하위에 복사해야 한다.<br/>
 
-<img style="width: 200px; height: 200px" src="https://user-images.githubusercontent.com/50176238/138035778-731a34b3-995a-4244-9913-d657a5d5a7ac.png">
+<img style="width: 490px; height: 180px" src="https://user-images.githubusercontent.com/50176238/138035778-731a34b3-995a-4244-9913-d657a5d5a7ac.png">
 
 <br/>
 
