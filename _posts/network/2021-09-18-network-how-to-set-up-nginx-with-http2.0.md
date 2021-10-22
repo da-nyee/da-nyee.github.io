@@ -8,6 +8,7 @@ tags: [network, nginx, http 2.0]
 
 - 필자는 Docker로 Nginx를 구성했다.
 - 따라서, 이어지는 과정은 Docker를 기반으로 진행된다.
+- (추가) [덧붙임](https://da-nyee.github.io/posts/network-how-to-set-up-nginx-with-http2.0/#%EB%8D%A7%EB%B6%99%EC%9E%84)에 Nginx를 직접 컴파일하는 경우에 대한 정보를 적어뒀다.
 
 <br/>
 
@@ -88,7 +89,7 @@ http {
     ssl_session_timeout 10m;      
 
     location / {
-      proxy_pass http://app;    
+      proxy_pass http://app;
     }
   }
 }
@@ -173,11 +174,48 @@ $ docker run -d -p 80:80 -p 443:443 --name {docker_container_name} {docker_image
 
 ### HTTP 1.1
 
-![http/1.1](https://user-images.githubusercontent.com/50176238/133808821-b976fb00-d497-43ac-80f6-37d3d00caa88.png)
+![docker_http/1.1](https://user-images.githubusercontent.com/50176238/133808821-b976fb00-d497-43ac-80f6-37d3d00caa88.png)
 
 ### HTTP 2.0
 
-![http/2](https://user-images.githubusercontent.com/50176238/133807433-d04f7e21-1cda-4e4d-8043-340d427f0b7a.png)
+![docker_http/2](https://user-images.githubusercontent.com/50176238/133807433-d04f7e21-1cda-4e4d-8043-340d427f0b7a.png)
+
+<br/>
+
+## 덧붙임
+
+### Nginx를 직접 컴파일하는 경우
+
+- Nginx는 일부 모듈을 default로 제공한다.
+- 하지만, http2에서 사용하는 모듈(--with-http_v2_module)은 default로 제공되지 않고, 따로 설정해야 한다.
+
+```
+// configure 파일이 있는 위치로 이동한다.
+[REVERSE_PROXY][07:12:15][ubuntu@ip-xxx-xxx-x-xxx ~/nginx_with_health_check/nginx-1.14.2] 
+$ ls
+... conf  configure  contrib  ...
+
+// configure를 실행하여 http2 모듈을 설정한다.
+$ ./configure --prefix=/usr/local/nginx --with-http_v2_module --with-{이_외_다른_모듈} ...
+
+// nginx를 컴파일하고, 설치한다.
+$ make
+$ make install
+```
+
+<br/>
+
+### 결과 비교
+
+- 이때에도 API 응답 크기와 속도가 개선된 것을 확인할 수 있다.
+
+#### HTTP 1.1
+
+![local_http/1.1](https://user-images.githubusercontent.com/50176238/138412694-e3175e7f-5185-4fdf-88e3-55e891da2114.png)
+
+#### HTTP 2.0
+
+![local_http/2](https://user-images.githubusercontent.com/50176238/138412869-9518fbfa-dbdd-4e91-ad05-ab4fa6d7fd6b.png)
 
 <br/>
 
@@ -187,3 +225,4 @@ $ docker run -d -p 80:80 -p 443:443 --name {docker_container_name} {docker_image
 - 우아한테크코스 완태
 - [Nginx 공식 문서 - Module ngx_http_v2_module](http://nginx.org/en/docs/http/ngx_http_v2_module.html)
 - [Defining http2 without ssl leads to HTTP/1.1 client failure](https://trac.nginx.org/nginx/ticket/808)
+- [Nginx 공식 문서 - Building nginx from Sources](http://nginx.org/en/docs/configure.html)
