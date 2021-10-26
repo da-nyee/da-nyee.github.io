@@ -100,8 +100,7 @@ layout: default
           </div>
         {% endif %}
 
-        <div class="post-tail-bottom
-          d-flex justify-content-between align-items-center mt-3 pt-5 pb-2">
+        <div class="post-tail-bottom d-flex justify-content-between align-items-center mt-3 pt-5 pb-2">
           {% if site.data.rights.license %}
           <div class="license-wrapper">
             This post is licensed under
@@ -110,7 +109,11 @@ layout: default
           </div>
           {% endif %}
 
-          {% include post-sharing.html %}
+          <div style="float: right;">
+            <a href="https://thankyou-for.com/creator/dani" target="_blank"><img height="32" style="border:0px;height:32px;" src="https://de56jrhz7aye2.cloudfront.net/banner/yellow.svg" border="0" alt="thank you for button" /></a>
+          </div>
+
+          <!-- {% include post-sharing.html %} -->
 
         </div><!-- .post-tail-bottom -->
 
