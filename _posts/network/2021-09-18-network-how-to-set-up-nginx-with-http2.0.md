@@ -203,6 +203,15 @@ $ make
 $ make install
 ```
 
+```
+// nginx.conf 위치
+$ pwd
+/usr/local/nginx/conf/nginx.conf
+
+// nginx 재시작
+$ sudo /usr/local/nginx/sbin/nginx -s reload
+```
+
 <br/>
 
 ### 결과 비교
