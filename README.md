@@ -57,6 +57,7 @@
 #### Database
 - [[Database] DB Replication을 구성한 이유 (Why DB Replication is set up)](https://da-nyee.github.io/posts/why-db-replication-is-set-up/)
 - [[Database] M1(ARM)에서 Embedded Redis를 사용하는 방법 (How to use Embedded Redis on M1(ARM))](https://da-nyee.github.io/posts/how-to-use-embedded-redis-on-m1-arm/)
+- [[Database] DB Replication 데이터 정합성 문제 (DB Replication Data Consistency Issue)](https://da-nyee.github.io/posts/db-replication-data-consistency-issue)
 
 #### Design Pattern
 - [[Design Pattern] SOLID 원칙 (SOLID Principles)](https://da-nyee.github.io/posts/design-pattern-solid-principles/)
