@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 다니의 학습 로그 - 레벨 2'
 author: da-nyee
 date: 2021-06-22 17:46:16 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, learning log, level2]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, learning log, level2]
 ---
 
 > [체스 미션/step1](https://github.com/woowacourse/jwp-chess/pull/234)

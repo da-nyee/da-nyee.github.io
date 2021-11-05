@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 우아한테크코스 최종 코딩 테스트 회고'
 author: da-nyee
 date: 2020-12-28 06:33:50 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, coding test, retrospective]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, coding test, retrospective]
 ---
 
 ## <b>최종 코딩 테스트</b>

@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 우아한테크코스 프리코스 회고'
 author: da-nyee
 date: 2020-12-15 23:03:15 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, precourse, retrospective]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, precourse, retrospective]
 ---
 
 ## <b>우아한테크코스란?</b>

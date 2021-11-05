@@ -2,8 +2,8 @@
 title: '[우아한테크코스] SQL 퀴즈 및 정답 (SQL Quizzes and Answers)'
 author: da-nyee
 date: 2021-04-03 23:40:10 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, sql, quizzes, answers]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, sql, quizzes, answers]
 ---
 
 ## 1.

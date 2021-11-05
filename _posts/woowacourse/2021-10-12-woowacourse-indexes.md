@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 인덱스 (Indexes)'
 author: da-nyee
 date: 2021-10-12 01:05:04 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, indexes]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, indexes]
 ---
 
 ## 실습환경 세팅

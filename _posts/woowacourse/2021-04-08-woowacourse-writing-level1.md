@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 우아한테크코스 한 달 생활기'
 author: da-nyee
 date: 2021-04-08 23:53:06 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, writing, level1]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, writing, level1]
 ---
 
 > [레벨 1 글쓰기 미션](https://github.com/woowacourse/woowa-writing-3/pull/53)으로 작성한 글입니다.

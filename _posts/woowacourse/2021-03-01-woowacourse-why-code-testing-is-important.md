@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 코드 테스트가 중요한 이유 (Why code testing is important)'
 author: da-nyee
 date: 2021-03-01 23:45:40 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, code testing]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, code testing]
 ---
 
 ## Introduction

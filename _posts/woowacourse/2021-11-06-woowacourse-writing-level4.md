@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 내가 꿈꾸는 프로그래머로서의 삶'
 author: da-nyee
 date: 2021-11-06 00:18:15 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, writing, level4]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, writing, level4]
 ---
 
 > [레벨 4 글쓰기 미션](https://github.com/woowacourse/woowa-writing-3/pull/300)으로 작성한 글입니다.
