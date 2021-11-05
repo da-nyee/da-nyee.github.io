@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 운영 퀴즈 및 정답 (Operation Quizzes and Answers)'
 author: da-nyee
 date: 2021-05-06 01:51:21 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, operation, quizzes, answers]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, operation, quizzes, answers]
 ---
 
 ## 1.

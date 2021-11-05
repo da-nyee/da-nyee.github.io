@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 싱글톤 패턴은 객체지향적일까? (Is the singleton pattern object-oriented?)'
 author: da-nyee
 date: 2021-03-20 22:09:42 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, singleton pattern, object-oriented]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, singleton pattern, object-oriented]
 ---
 
 ## Introduction

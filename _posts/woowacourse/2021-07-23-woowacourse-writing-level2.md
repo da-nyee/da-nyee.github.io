@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 우테코에서 찾은 나만의 효과적인 공부법'
 author: da-nyee
 date: 2021-07-23 00:19:27 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, writing, level2]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, writing, level2]
 ---
 
 > [레벨 2 글쓰기 미션](https://github.com/woowacourse/woowa-writing-3/pull/118)으로 작성한 글입니다.

@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 팀 프로젝트가 나에게 남긴 것'
 author: da-nyee
 date: 2021-11-06 00:15:22 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, writing, level3]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, writing, level3]
 ---
 
 > [레벨 3 글쓰기 미션](https://github.com/woowacourse/woowa-writing-3/pull/217)으로 작성한 글입니다.

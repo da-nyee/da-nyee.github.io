@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 배포 퀴즈 및 정답 (Deployment Quizzes and Answers)'
 author: da-nyee
 date: 2021-05-03 02:13:41 +0900
-categories: [EDUCATION, Woowa Course]
-tags: [woowa course, deployment, quizzes, answers]
+categories: [EDUCATION, Woowacourse]
+tags: [woowacourse, deployment, quizzes, answers]
 ---
 
 ## 1.

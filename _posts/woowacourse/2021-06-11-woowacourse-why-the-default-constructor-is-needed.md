@@ -2,8 +2,8 @@
 title: '[우아한테크코스] 기본 생성자가 필요한 이유 (Why the default constructor is needed) (feat. Jackson ObjectMapper + Reflection)'
 author: da-nyee
 date: 2021-06-11 20:56:26 +0900
-categories: [TIL, Woowa Course]
-tags: [woowa course, default constructor, jackson, objectmapper, reflection]
+categories: [TIL, Woowacourse]
+tags: [woowacourse, default constructor, jackson, objectmapper, reflection]
 ---
 
 ## Introduction
