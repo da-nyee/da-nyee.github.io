@@ -39,6 +39,7 @@
 - [[우아한테크코스] 인덱스 (Indexes)](https://da-nyee.github.io/posts/woowacourse-indexes/)
 - [[우아한테크코스] 팀 프로젝트가 나에게 남긴 것](https://da-nyee.github.io/posts/woowacourse-writing-level3/)
 - [[우아한테크코스] 내가 꿈꾸는 프로그래머로서의 삶](https://da-nyee.github.io/posts/woowacourse-writing-level4/)
+- [[우아한테크코스] 테코톡 - HTTPS](https://da-nyee.github.io/posts/woowacourse-tecotalk-https/)
 
 <br/>
 
