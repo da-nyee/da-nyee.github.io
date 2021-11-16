@@ -53,7 +53,7 @@ public Optional<Member> findById(Long id) {
     String query = "SELECT id, name FROM MEMBER WHERE id = ?";
 
     try {
-        return Optional.Nullable(this.jdbctemplate.queryForObject(query, ROW_MAPPER, id));
+        return Optional.ofNullable(this.jdbctemplate.queryForObject(query, ROW_MAPPER, id));
     } catch (EmptyResultDataAccessException e) {
         return Optional.empty();
     }
@@ -65,12 +65,12 @@ catch 문에서는 `Optional.empty()`를 반환한다.<br/>
 조회 결과로 null이 나오는 경우는 해당 데이터에 null이 들어있을 때 같다.<br/>
 
 나는 이 부분에서 try-catch 구문을 꼭 써야 할까? 의문이 들었는데,<br/>
-손너잘과 얘기한 뒤 한 번은 쓸 수 밖에 없다고 결론지었다.<br/>
+손너잘과 얘기한 뒤 한번은 쓸 수 밖에 없다고 결론지었다.<br/>
 
 손너잘이 DAO에 try-catch 구문을 안 쓸 수 있는 방법도 소개해줬다.<br/>
 
 > JdbcTemplate을 감싸는 다이나믹 프록시를 생성하고, 여기서 try 구문으로 queryForObject()를 수행하고, 예외가 발생하면 catch 구문으로 Optional.empty()를 반환하게 한다.<br/>
 
-아무튼 최소 한 번은 try-catch 구문이 필요하다.<br/>
+아무튼 최소 한번은 try-catch 구문이 필요하다.<br/>
 
 이런 흐름으로 문제 해결을 완료했다!<br/>
