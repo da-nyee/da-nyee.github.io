@@ -125,7 +125,7 @@ public class AuthenticationPrincipalConfig implements WebMvcConfigurer {
 - 컨트롤러 메소드 파라미터에 `@AuthenticationPrincipal`을 사용해서 `LoginMember` 정보를 가져온다.
 
 ```
-GetMapping("/me")
+@GetMapping("/me")
 public ResponseEntity<MemberResponse> findMemberOfMine(@AuthenticationPrincipal LoginMember loginMember) {
     MemberResponse member = memberService.findMember(loginMember);
     return ResponseEntity.ok().body(member);
