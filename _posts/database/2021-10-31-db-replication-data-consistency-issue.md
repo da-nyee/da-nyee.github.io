@@ -66,8 +66,11 @@ tags: [database, replication, data consistency]
 
 따라서, 지금의 비동기 방식을 준동기 방식으로 굳이 변경할 필요는 없다. 서비스 운영의 안정성과 고가용성을 생각하면, 이는 어쩔 수 없는 trade-off다. 데이터 정합성에 문제가 생길 수는 있다. 그러나 사용자는 잘 모른다. 만약 알아도, 화면을 새로고침하는 등의 다른 액션을 취해서 데이터의 갱신을 확인할 것 같다.<br/>
 
+한편, 데이터 정합성이 매우 중요한 경우에는 Master에서 Slave 대신 데이터를 조회하도록 처리할 수 있다.<br/>
+
 <br/>
 
-## Reference
+## References
 
 - 씨유조 단톡방
+- [Java 에서 DataBase Replication Master/Slave (write/read) 분기 처리하기](http://kwon37xi.egloos.com/m/5364167)
