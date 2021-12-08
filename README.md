@@ -43,6 +43,7 @@
 - [[우아한테크코스] 내가 꿈꾸는 프로그래머로서의 삶](https://da-nyee.github.io/posts/woowacourse-writing-level4/)
 - [[우아한테크코스] 테코톡 - HTTPS](https://da-nyee.github.io/posts/woowacourse-tecotalk-https/)
 - [[우아한테크코스] 우아한객체지향 - Part 1](https://da-nyee.github.io/posts/woowacourse-woowaoop-part-1/)
+- [[우아한테크코스] 우아한객체지향 - Part 3](https://da-nyee.github.io/posts/woowacourse-woowaoop-part-3/)
 
 <br/>
 
