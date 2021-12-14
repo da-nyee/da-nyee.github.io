@@ -6,6 +6,9 @@
 
 ## Posts
 > BOOKS
+#### Effective Java
+- [[Effective Java] 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라](https://da-nyee.github.io/posts/effective-java-item-1/)
+
 #### Real MySQL
 - [[Real MySQL] 05. 트랜잭션과 잠금](https://da-nyee.github.io/posts/real-mysql-05/)
 
