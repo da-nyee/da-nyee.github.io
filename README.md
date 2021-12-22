@@ -9,6 +9,7 @@
 #### Effective Java
 - [[Effective Java] 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라](https://da-nyee.github.io/posts/effective-java-item-1/)
 - [[Effective Java] 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라](https://da-nyee.github.io/posts/effective-java-item-2/)
+- [[Effective Java] 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://da-nyee.github.io/posts/effective-java-item-3/)
 
 #### Real MySQL
 - [[Real MySQL] 05. 트랜잭션과 잠금](https://da-nyee.github.io/posts/real-mysql-05/)
