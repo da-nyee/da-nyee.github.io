@@ -57,6 +57,7 @@
 #### Algorithms
 - [[Algorithms] 이분 탐색 (Binary Search)](https://da-nyee.github.io/posts/algorithms-binary-search/)
 - [[Algorithms] 정렬 알고리즘 (Sorting Algorithms)](https://da-nyee.github.io/posts/algorithms-sorting-algorithms/)
+- [[Algorithms] 최대공약수, 최소공배수 (GCD, LCM)](https://da-nyee.github.io/posts/algorithms-gcd-lcm/)
 
 #### Audio
 - [[Audio] 음성 데이터 자르기 (How to trim audio data with librosa)](https://da-nyee.github.io/posts/audio-how-to-trim-audio-data-with-librosa/)
