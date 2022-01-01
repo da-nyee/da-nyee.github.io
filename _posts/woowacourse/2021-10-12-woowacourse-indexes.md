@@ -44,8 +44,6 @@ DROP INDEX `idx_programmer_id` ON `subway`.`programmer`;
 
 ## Index Range Scan
 
-![index_range_scan](https://user-images.githubusercontent.com/50176238/136814933-b382c432-4ed2-4bc3-832f-50b30de47c7a.png)
-
 ### 인덱스 생성
 
 ```sql
@@ -67,7 +65,7 @@ CREATE INDEX `idx_programmer_country_open_source` ON `subway`.`programmer` (coun
 EXPLAIN SELECT * FROM programmer WHERE open_source = 'Yes';
 ```
 
-![explain1](https://user-images.githubusercontent.com/50176238/136820830-e15a03fc-56ac-440c-9eb4-300901d3a5d9.png)
+<img style="width: 520px; height: 34px" src="https://user-images.githubusercontent.com/50176238/136820830-e15a03fc-56ac-440c-9eb4-300901d3a5d9.png">
 
 > (country, open_source)에서 country가 WHERE에 있는 경우
 
@@ -77,13 +75,13 @@ EXPLAIN SELECT * FROM programmer WHERE open_source = 'Yes';
 EXPLAIN SELECT * FROM programmer WHERE open_source = 'Yes' AND country LIKE 'Nigeria';
 ```
 
-![explain2](https://user-images.githubusercontent.com/50176238/136820967-bf6ec5fe-e04e-4f1b-ba01-2d1be27a9bcb.png)
+<img src="https://user-images.githubusercontent.com/50176238/136820967-bf6ec5fe-e04e-4f1b-ba01-2d1be27a9bcb.png">
+
+<img style="width: 400px; height: 250px" src="https://user-images.githubusercontent.com/50176238/136814933-b382c432-4ed2-4bc3-832f-50b30de47c7a.png">
 
 <br/>
 
 ## Index Full Scan
-
-![index_full_scan](https://user-images.githubusercontent.com/50176238/136815341-8e7f6913-5028-4612-a808-5140860b0234.png)
 
 ### 실행계획 확인
 
@@ -97,13 +95,13 @@ EXPLAIN SELECT * FROM programmer WHERE open_source = 'Yes' AND country LIKE 'Nig
 EXPLAIN SELECT COUNT(*) FROM programmer;
 ```
 
-![explain3](https://user-images.githubusercontent.com/50176238/136819581-26d02731-470f-45b5-be91-b8321d10383a.png)
+<img style="width: 560px; height: 34px" src="https://user-images.githubusercontent.com/50176238/136819581-26d02731-470f-45b5-be91-b8321d10383a.png">
+
+<img style="width: 400px; height: 240px" src="https://user-images.githubusercontent.com/50176238/136815341-8e7f6913-5028-4612-a808-5140860b0234.png">
 
 <br/>
 
 ## Index Unique Scan
-
-![index_unique_scan](https://user-images.githubusercontent.com/50176238/136815593-3f4f3f1e-5c0e-42b7-9ec0-bbfad0b820c1.png)
 
 ### 인덱스 생성
 
@@ -125,7 +123,7 @@ CREATE INDEX `idx_programmer_member_id` ON `subway`.`programmer` (member_id);
 EXPLAIN SELECT * FROM programmer WHERE member_id = 10;
 ```
 
-![explain4](https://user-images.githubusercontent.com/50176238/136821081-4a5500fd-ab19-4ca8-a3e2-badae396e158.png)
+<img style="width: 670px; height: 36px" src="https://user-images.githubusercontent.com/50176238/136821081-4a5500fd-ab19-4ca8-a3e2-badae396e158.png">
 
 > `<, >, <=, >=` 조건으로 검색하는 경우
 
@@ -137,7 +135,9 @@ EXPLAIN SELECT * FROM programmer WHERE member_id = 10;
 EXPLAIN SELECT * FROM programmer WHERE member_id < 10;
 ```
 
-![explain5](https://user-images.githubusercontent.com/50176238/136821161-dda8f079-f43e-48e1-8081-56be40d934dd.png)
+<img src="https://user-images.githubusercontent.com/50176238/136821161-dda8f079-f43e-48e1-8081-56be40d934dd.png">
+
+<img style="width: 420px; height: 240px" src="https://user-images.githubusercontent.com/50176238/136815593-3f4f3f1e-5c0e-42b7-9ec0-bbfad0b820c1.png">
 
 <br/>
 
