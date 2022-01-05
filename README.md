@@ -102,6 +102,9 @@
 - [[Java] Arrays.sort() vs Collections.sort()](https://da-nyee.github.io/posts/java-arrays-sort-vs-collections-sort/)
 - [[Java] POJO](https://da-nyee.github.io/posts/java-pojo/)
 
+#### Kafka
+- [[Kafka] Kafka 튜토리얼 (Kafka Tutorial)](https://da-nyee.github.io/posts/kafka-kafka-tutorial/)
+
 #### Linux
 - [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-netstat-command/)
 - [[Linux] pidof 명령어 (pidof Command)](https://da-nyee.github.io/posts/linux-pidof-command/)
