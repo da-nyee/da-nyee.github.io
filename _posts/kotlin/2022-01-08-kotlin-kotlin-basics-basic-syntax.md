@@ -1,5 +1,5 @@
 ---
-title: '[Kotlin] Kotlin 기초 (Kotlin Basics)'
+title: '[Kotlin] Kotlin Basics - Basic Syntax'
 author: da-nyee
 date: 2022-01-08 01:32:32 +0900
 categories: [TIL, Kotlin]
