@@ -106,7 +106,8 @@
 - [[Kafka] Kafka 튜토리얼 (Kafka Tutorial)](https://da-nyee.github.io/posts/kafka-kafka-tutorial/)
 
 #### Kotlin
-- [[Kotlin] Kotlin 기초 (Kotlin Basics)](https://da-nyee.github.io/posts/kotlin-kotlin-basics/)
+- [[Kotlin] [Kotlin] Kotlin Basics - Basic Syntax](https://da-nyee.github.io/posts/kotlin-kotlin-basics-basic-syntax/)
+- [[Kotlin] Kotlin Basics - Idioms](https://da-nyee.github.io/posts/kotlin-kotlin-basics-idioms/)
 
 #### Linux
 - [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-netstat-command/)
