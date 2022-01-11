@@ -17,7 +17,8 @@ title: About
 가천대학교 컴퓨터공학과 &nbsp;<sub>(2016.03 – 2022.02)</sub>
 
 ### 💎 **경험**
-Ericsson-LG R&D 인턴 &nbsp;<sub>(2019.07 – 2019.08)</sub>
+당근마켓 백엔드 개발자 &nbsp;<sub>(인턴, 2022.01 –)</sub><br/>
+Ericsson-LG R&D 엔지니어 &nbsp;<sub>(인턴, 2019.07 – 2019.08)</sub>
 
 ### 💪 **좌우명**
 매일매일을 소중하게 ✨
@@ -38,7 +39,8 @@ Woowahan Tech Course 3rd &nbsp;<sub>(Feb 2021 – Nov 2021)</sub><br/>
 Undergraduate Student in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
 
 ### 💎 **Experience**
-Research and Development Intern at Ericsson-LG &nbsp;<sub>(Jul 2019 – Aug 2019)</sub>
+Backend Developer at Karrot &nbsp;<sub>(Internship, Jan 2022 –)</sub><br/>
+Research and Development Engineer at Ericsson-LG &nbsp;<sub>(Internship, Jul 2019 – Aug 2019)</sub>
 
 ### 💪 **Motto**
 To make each day count ✨
