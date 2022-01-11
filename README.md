@@ -62,6 +62,9 @@
 #### Audio
 - [[Audio] 음성 데이터 자르기 (How to trim audio data with librosa)](https://da-nyee.github.io/posts/audio-how-to-trim-audio-data-with-librosa/)
 
+#### BigQuery
+- [[BigQuery] BigQuery에서 서브쿼리를 작성하는 방법 (How to write subqueries in BigQuery)](https://da-nyee.github.io/posts/bigquery-how-to-write-subqueries-in-bigquery/)
+
 #### Cloud Computing
 - [[Cloud Computing] AWS, Azure, GCP 비교](https://da-nyee.github.io/posts/aws-azure-gcp-comparison/)
 
