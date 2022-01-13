@@ -82,6 +82,9 @@
 #### DevOps
 - [[DevOps] SonarQube + JaCoCo](https://da-nyee.github.io/posts/devops-sonarqube-jacoco/)
 
+### Distributed Systems
+- [[Distributed Systems] CAP 정리 및 BASE (CAP Theorem and BASE)](https://da-nyee.github.io/posts/distributed-systems-cap-theorem/)
+
 #### Git
 - [[Git] 깃 커밋 메시지 컨벤션 (Git Commit Message Convention)](https://da-nyee.github.io/posts/git-git-commit-message-convention/)
 - [[Git] git reset --hard 되돌리기 (feat. git reflog)](https://da-nyee.github.io/posts/git-git-reset-git-reflog/)
