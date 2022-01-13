@@ -82,7 +82,7 @@
 #### DevOps
 - [[DevOps] SonarQube + JaCoCo](https://da-nyee.github.io/posts/devops-sonarqube-jacoco/)
 
-### Distributed Systems
+#### Distributed Systems
 - [[Distributed Systems] CAP 정리 및 BASE (CAP Theorem and BASE)](https://da-nyee.github.io/posts/distributed-systems-cap-theorem/)
 
 #### Git
