@@ -142,6 +142,7 @@
 - [[Spring] JdbcTemplate queryForObject() - Return Value Issue](https://da-nyee.github.io/posts/spring-jdbctemplate-queryForObject-return-value-issue/)
 - [[Spring] Spring MVC 흐름 (Spring MVC Flow)](https://da-nyee.github.io/posts/spring-spring-mvc-flow/)
 - [[Spring] @SpringBootTest vs @DataJpaTest](https://da-nyee.github.io/posts/spring-springboottest-vs-datajpatest/)
+- [[Spring] @RequestParam vs @PathVariable](https://da-nyee.github.io/posts/spring-requestparam-vs-pathvariable/)
 
 #### Statistics
 - [[Statistics] 평균, 분산, 표준편차 (Average, Variance, Standard Deviation)](https://da-nyee.github.io/posts/statistics-average-variance-standard-deviation/)
