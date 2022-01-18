@@ -94,6 +94,9 @@
 #### IntelliJ
 - [[IntelliJ] 콘솔 한글 깨짐 (Console Encoding Issue)](https://da-nyee.github.io/posts/intellij-console-encoding-issue/)
 
+#### JPA
+- [[JPA] OSIV](https://da-nyee.github.io/posts/jpa-osiv/)
+
 #### Java
 - [[Java] 추상 메서드 vs 인터페이스 (Abstract Class vs Interface)](https://da-nyee.github.io/posts/java-abstract-class-vs-interface/)
 - [[Java] Array, ArrayList, LinkedList](https://da-nyee.github.io/posts/java-array-vector-arraylist-linkedlist/)
