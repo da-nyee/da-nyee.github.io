@@ -13,12 +13,12 @@ title: About
 > 한국어
 
 ### 💻 **학업**
-우아한테크코스 3기 &nbsp;<sub>(2021.02 – 2021.11)</sub><br/>
+우아한테크코스 웹 백엔드 3기 &nbsp;<sub>(2021.02 – 2021.11)</sub><br/>
 가천대학교 컴퓨터공학과 &nbsp;<sub>(2016.03 – 2022.02)</sub>
 
 ### 💎 **경험**
 당근마켓 백엔드 개발자 &nbsp;<sub>(인턴, 2022.01 –)</sub><br/>
-Ericsson-LG R&D 엔지니어 &nbsp;<sub>(인턴, 2019.07 – 2019.08)</sub>
+Ericsson-LG 소프트웨어 개발자 &nbsp;<sub>(인턴, 2019.07 – 2019.08)</sub>
 
 ### 💪 **좌우명**
 매일매일을 소중하게 ✨
@@ -35,12 +35,12 @@ Ericsson-LG R&D 엔지니어 &nbsp;<sub>(인턴, 2019.07 – 2019.08)</sub>
 > ENGLISH
 
 ### 💻 **Education**
-Woowahan Tech Course 3rd &nbsp;<sub>(Feb 2021 – Nov 2021)</sub><br/>
+Web Backend 3rd at Woowahan Tech Course &nbsp;<sub>(Feb 2021 – Nov 2021)</sub><br/>
 Undergraduate Student in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
 
 ### 💎 **Experience**
-Backend Developer at Karrot &nbsp;<sub>(Internship, Jan 2022 –)</sub><br/>
-Research and Development Engineer at Ericsson-LG &nbsp;<sub>(Internship, Jul 2019 – Aug 2019)</sub>
+Server Engineer at Karrot &nbsp;<sub>(Internship, Jan 2022 –)</sub><br/>
+Software Developer at Ericsson-LG &nbsp;<sub>(Internship, Jul 2019 – Aug 2019)</sub>
 
 ### 💪 **Motto**
 To make each day count ✨
