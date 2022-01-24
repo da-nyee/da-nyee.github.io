@@ -96,6 +96,7 @@
 
 #### JPA
 - [[JPA] OSIV](https://da-nyee.github.io/posts/jpa-osiv/)
+- [[JPA] @Transactional(readOnly = true)](https://da-nyee.github.io/posts/jpa-transactional-readonly-true/)
 
 #### Java
 - [[Java] 추상 메서드 vs 인터페이스 (Abstract Class vs Interface)](https://da-nyee.github.io/posts/java-abstract-class-vs-interface/)
