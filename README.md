@@ -112,6 +112,9 @@
 - [[Java] Arrays.sort() vs Collections.sort()](https://da-nyee.github.io/posts/java-arrays-sort-vs-collections-sort/)
 - [[Java] POJO](https://da-nyee.github.io/posts/java-pojo/)
 
+#### Jenkins
+- [[Jenkins] 젠킨스에서 스케줄링하는 방법 (How to schedule in Jenkins) (feat. crontab)](https://da-nyee.github.io/posts/jenkins-how-to-schedule-in-jenkins/)
+
 #### Kafka
 - [[Kafka] Kafka 튜토리얼 (Kafka Tutorial)](https://da-nyee.github.io/posts/kafka-kafka-tutorial/)
 
