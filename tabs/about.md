@@ -1,11 +1,5 @@
 ---
 title: About
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
 ---
 
 <!-- > **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page. -->
@@ -14,7 +8,7 @@ title: About
 
 ### 💻 **학업**
 우아한테크코스 웹 백엔드 3기 &nbsp;<sub>(2021.02 – 2021.11)</sub><br/>
-가천대학교 컴퓨터공학과 &nbsp;<sub>(2016.03 – 2022.02)</sub>
+가천대학교 컴퓨터공학과 학사 &nbsp;<sub>(2016.03 – 2022.02)</sub>
 
 ### 💎 **경험**
 당근마켓 백엔드 개발자 &nbsp;<sub>(인턴, 2022.01 –)</sub><br/>
