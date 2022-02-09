@@ -7,7 +7,7 @@ tags: [jenkins, crontab]
 ---
 
 최근에 Spring Batch를 사용하고 있는데, 이때 스케줄링을 접목할 필요가 생겼다.<br/>
-Spring Batch를 공부하며 참고했던 블로그를 보면, 보통 Quartz를 이용해서 스케줄링을 한다고 설명한다.<br/>
+[Spring Batch를 공부하며 참고했던 블로그](https://jojoldu.tistory.com/324)를 보면, 보통 Quartz를 이용해서 스케줄링을 한다고 설명한다.<br/>
 하지만 이번에는 Jenkins를 써야 해서 이를 활용했다.<br/>
 
 Jenkins의 아이템 - 구성 - 빌드 유발 - Build periodically를 통해 스케줄을 편하게 지정할 수 있다.<br/>
