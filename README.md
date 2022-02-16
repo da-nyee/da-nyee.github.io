@@ -141,6 +141,9 @@
 #### Python
 - [[Python] 양의 무한대(inf), 음의 무한대(-inf) 표시](https://da-nyee.github.io/posts/python-infinity/)
 
+#### Redis
+- [[Redis] Redis CLI를 실행하는 방법 (How to run Redis CLI)](https://da-nyee.github.io/posts/redis-how-to-run-redis-cli/)
+
 #### Spring
 - [[Spring] DAO, DTO, VO](https://da-nyee.github.io/posts/spring-dao-dto-vo/)
 - [[Spring] Entity vs DTO](https://da-nyee.github.io/posts/spring-entity-vs-dto/)
