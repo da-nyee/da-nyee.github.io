@@ -11,7 +11,8 @@ title: About
 가천대학교 컴퓨터공학과 학사 &nbsp;<sub>(2016.03 – 2022.02)</sub>
 
 ### 💎 **경험**
-당근마켓 백엔드 개발자 &nbsp;<sub>(인턴, 2022.01 – 2022.02)</sub><br/>
+카카오페이 서버 개발자 &nbsp;<sub>(정규직, 2022.02 –)</sub><br/>
+당근마켓 서버 개발자 &nbsp;<sub>(인턴, 2022.01 – 2022.02)</sub><br/>
 Ericsson-LG 소프트웨어 개발자 &nbsp;<sub>(인턴, 2019.07 – 2019.08)</sub>
 
 ### 💪 **좌우명**
@@ -33,6 +34,7 @@ Web Backend 3rd at Woowahan Tech Course &nbsp;<sub>(Feb 2021 – Nov 2021)</sub>
 Bachelor's Degree in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
 
 ### 💎 **Experience**
+Backend Developer at Kakao Pay &nbsp;<sub>(Full-time, Feb 2022 –)</sub><br/>
 Server Engineer at Karrot &nbsp;<sub>(Internship, Jan 2022 – Feb 2022)</sub><br/>
 Software Developer at Ericsson-LG &nbsp;<sub>(Internship, Jul 2019 – Aug 2019)</sub>
 
