@@ -25,7 +25,7 @@ tags: [jpa, transactional, readonly]
 
 ## 플러시 모드 설정
 
-- 엔티티 매니저의 플러시 모드에는 AUTO, COMMIT만 있고, COMMIT은 없다.
+- 엔티티 매니저의 플러시 모드에는 AUTO, COMMIT만 있고, MANUAL은 없다.
 - 반면, 하이버네이트 세션(org.hibernate.Session)의 플러시 모드에는 MANUAL이 있다.
 - 이는 플러시를 강제로 호출하지 않으면 플러시가 절대 일어나지 않는다.
 - 참고로 JPA 엔티티 매니저(인터페이스)를 하이버네이트(구현체)가 구현했다.
