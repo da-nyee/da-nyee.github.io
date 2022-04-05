@@ -89,6 +89,9 @@
 #### DynamoDB
 - [[DynamoDB] 코프링에서 DynamoDB 사용하기 (feat. spring-data-dynamodb)](https://da-nyee.github.io/posts/dynamodb-kotlin-spring-dynamodb/)
 
+#### Fintech
+- [[Fintech] VAN vs PG, 그리고 간편 결제](https://da-nyee.github.io/posts/fintech-van-vs-pg-and-easy-payment/)
+
 #### Git
 - [[Git] 깃 커밋 메시지 컨벤션 (Git Commit Message Convention)](https://da-nyee.github.io/posts/git-git-commit-message-convention/)
 - [[Git] git reset --hard 되돌리기 (feat. git reflog)](https://da-nyee.github.io/posts/git-git-reset-git-reflog/)
