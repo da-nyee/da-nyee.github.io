@@ -149,6 +149,7 @@
 
 #### Redis
 - [[Redis] Redis CLI를 실행하는 방법 (How to run Redis CLI)](https://da-nyee.github.io/posts/redis-how-to-run-redis-cli/)
+- [[Redis] HyperLogLog](https://da-nyee.github.io/posts/redis-hyperloglog/)
 
 #### Spring
 - [[Spring] DAO, DTO, VO](https://da-nyee.github.io/posts/spring-dao-dto-vo/)
