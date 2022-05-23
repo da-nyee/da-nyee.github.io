@@ -6,7 +6,7 @@ categories: [TIL, Java]
 tags: [java, hashmap, linkedhashmap]
 ---
 
-## Commonalities
+## 공통점
 
 - 데이터를 <b>key-value 쌍</b>으로 저장한다.
 - 비동기로 처리된다.
@@ -21,7 +21,9 @@ tags: [java, hashmap, linkedhashmap]
 - <b>중복</b>을 <b>허용한다.</b>
 - 여러 개의 null 값을 저장할 수 있다.
 
-## Differences
+<br/>
+
+## 차이점
 
 ### HashMap
 
@@ -33,7 +35,9 @@ tags: [java, hashmap, linkedhashmap]
 - 데이터의 <b>삽입 순서</b>를 <b>보장한다.</b>
 - HashMap 클래스를 상속하고, Map 인터페이스를 구현한다.
 
-## Performance
+<br/>
+
+## 성능
 
 ### Create
 
@@ -47,10 +51,14 @@ tags: [java, hashmap, linkedhashmap]
 
 - (오래 걸림) HashMap > LinkedHashMap
 
-### Evaluation
+<br/>
+
+## 결론
 
 - HashMap보다 <b>LinkedHashMap의 성능이 약간 더 우세</b>하지만, <b>전체적인 성능에는 큰 차이가 없다.</b>
 - <b>HashMap은 순서를 보장하지 않아도</b> 될 때, <b>LinkedHashMap은 순서를 보장해야</b> 될 때 사용한다.
+
+<br/>
 
 ## References
 
