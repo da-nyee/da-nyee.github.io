@@ -6,11 +6,11 @@ categories: [TIL, DynamoDB]
 tags: [dynamodb, spring-data-dynamodb]
 ---
 
-자프링에서 spring-data-jpa는 자주 써봤다. 하지만 spring-data-dynamodb는 아예 써본 적이 없다.<br/>
+자프링에서 spring-data-jpa는 자주 써봤는데, spring-data-dynamodb는 아예 써본 적이 없다.<br/>
 
-이번에 코프링에서 DynamoDB를 도입했는데, 해당 조합이 처음이다보니 삽질을 4-5일 정도 했다.<br/>
-해결하고나서 매우 뿌듯하면서도 앞으로 또 이런 경우가 있을 수도 있지 않을까? 싶었다.<br/>
-그래서 미래의 나를 위해서 간단하게 정리한다.<br/>
+최근에 코프링에서 DynamoDB를 도입했다. 요런 조합이 처음이다보니 며칠 동안 삽질했다.<br/>
+해결하고나서 뿌듯하면서도, 한편으로는 요런 경우가 또 있을 수도 있지 않을까 생각했다.<br/>
+그래서 미래의 나를 위해 간단하게 정리한다.<br/>
 
 <br/>
 
@@ -160,7 +160,7 @@ interface UserRepository : CrudRepository<User, UserId>
 이제 요구사항대로 DynamoDB Repository에 메시지를 보내 데이터를 CRUD하면 된다.<br/>
 
 구글링을 하다보면 자프링 기반의 자료는 많았다.<br/>
-반면, 코프링 기반의 자료(특히 한글)은 적은 것 같아 하나 남겼다 !<br/>
+근데 코프링 기반의 자료(특히 한글)은 적은 것 같아 하나 남겼다 !<br/>
 
 <br/>
 
