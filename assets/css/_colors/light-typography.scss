@@ -1,11 +1,3 @@
-/*!
-* The syntax light mode typography colors
-* v2.1
-* https://github.com/cotes2020/jekyll-theme-chirpy
-* © 2020 Cotes Chung
-* MIT Licensed
-*/
-
 @mixin light-scheme {
   /* Common */
   --body-bg: #fafafa;
@@ -27,11 +19,16 @@
   --btn-box-shadow: #eaeaea;
 
   /* Sidebar */
-  --sidebar-bg: radial-gradient(
-    circle,
-    rgba(42, 30, 107, 1) 0%,
-    rgba(35, 37, 46, 1) 100%);
-  --nav-cursor-color: #fcfcfc;
+  --sidebar-bg: #22273a;
+  --sidebar-muted-color: #a2a19f;
+  --sidebar-active-color: #424242;
+  --nav-cursor-color: #eeeeee;
+  --sidebar-btn-bg: white;
+  // --sidebar-bg: radial-gradient(
+  //   circle,
+  //   rgba(42, 30, 107, 1) 0%,
+  //   rgba(35, 37, 46, 1) 100%);
+  // --nav-cursor-color: #fcfcfc;
 
   /* Topbar */
   --topbar-wrapper-bg: white;
