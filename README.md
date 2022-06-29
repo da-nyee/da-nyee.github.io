@@ -133,6 +133,9 @@
 - [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-netstat-command/)
 - [[Linux] pidof 명령어 (pidof Command)](https://da-nyee.github.io/posts/linux-pidof-command/)
 
+#### MySQL
+- [[MySQL] Lock 이모저모](https://da-nyee.github.io/posts/mysql-lock/)
+
 #### Network
 - [[Network] L2 오류 제어 vs L4 오류 제어 (L2 Error Handling vs L4 Error Handling)](https://da-nyee.github.io/posts/network-l2-error-handlingvs-l4-error-handling/)
 - [[Network] OAuth 2.0 흐름 (OAuth 2.0 Flow)](https://da-nyee.github.io/posts/network-oauth2.0-flow/)
