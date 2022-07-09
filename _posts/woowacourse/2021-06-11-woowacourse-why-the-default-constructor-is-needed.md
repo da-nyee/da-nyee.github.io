@@ -24,6 +24,8 @@ tags: [woowacourse, default constructor, jackson, objectmapper, reflection]
 
 오후 내내 이 의문에 꽂혀서 한 3시간 찾아봤는데, 내용을 정리할 겸 포스팅으로 기록한다.<br/>
 
+<br/>
+
 ## Prior Knowledge
 
 ### Serialize
@@ -37,6 +39,8 @@ tags: [woowacourse, default constructor, jackson, objectmapper, reflection]
 - 역직렬화
 - JSON to Object
 - `default constructor`를 사용한다. 👉 불변 객체로 못 만든다.
+
+<br/>
 
 ## Thoughts Flow
 
@@ -52,6 +56,8 @@ responseDto는 serialize 과정이 필요하니까 불변적으로 만들어도 
 
 그런데, 너잘과 연락하며 인수 테스트에서 `???.as(??.class)`와 같은 코드를 자주 사용해서 기본 생성자가 필요한 걸 알았다.<br/>
 해당 코드는 자바 리플렉션을 활용한 코드이다.<br/>
+
+<br/>
 
 ## Reflection
 
@@ -86,6 +92,8 @@ Reflection API로 가져올 수 없는 정보 중 하나가 생성자의 인자 
 오호 기본 생성자로 객체를 생성하고,<br/>
 클래스의 필드 정보를 가져올 수 있으니까 객체 생성 후에 필드 값을 할당하나 보다!<br/>
 
+<br/>
+
 ## Conclusion
 
 스스로 내린 결론은 인수 테스트까지 생각하면 아무래도 불변성 보장은 힘들 것 같다.<br/>
@@ -93,6 +101,8 @@ Reflection API로 가져올 수 없는 정보 중 하나가 생성자의 인자 
 
 따라서, `private`로 빈 객체 생성(너잘이 우려한 문제)를 막는 게 최선이라 생각한다.<br/>
 왜? 리플렉션은 접근 제어자와 상관 없기 때문이다!<br/>
+
+<br/>
 
 ## References
 
