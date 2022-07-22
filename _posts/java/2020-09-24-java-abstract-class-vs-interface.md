@@ -227,3 +227,4 @@ public class MainClass {
 - [Difference between Abstract Class and Interface in Java](https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-java/)
 - [[01] 추상클래스와 인터페이스의 차이가 뭐죠?](https://cbw1030.tistory.com/47)
 - [자바 인터페이스와 추상클래스](https://medium.com/webeveloper/%EC%9E%90%EB%B0%94-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4-6eecbe5d6350)
+- - [자바 추상 클래스와 인터페이스 (Abstract Class vs Interface)](https://www.scaler.com/topics/java/difference-between-abstract-class-and-interface/)
