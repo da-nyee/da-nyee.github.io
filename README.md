@@ -165,7 +165,7 @@
 - [[Spring] @SpringBootTest vs @DataJpaTest](https://da-nyee.github.io/posts/spring-springboottest-vs-datajpatest/)
 - [[Spring] @RequestParam vs @PathVariable](https://da-nyee.github.io/posts/spring-requestparam-vs-pathvariable/)
 - [[Spring] @Transactional(rollbackFor={exceptionClass})](https://da-nyee.github.io/posts/spring-transactional-rollbackfor-exceptionclass/)
-- [[Spring] Spring Webflux + Swagger 3.0 적용](https://da-nyee.github.io/posts/spring-rest-api-documentation-with-swagger-3.0-in-spring-webflux/)
+- [[Spring] Spring WebFlux + Swagger 3.0 적용](https://da-nyee.github.io/posts/spring-rest-api-documentation-with-swagger-3.0-in-spring-webflux/)
 
 #### Statistics
 - [[Statistics] 평균, 분산, 표준편차 (Average, Variance, Standard Deviation)](https://da-nyee.github.io/posts/statistics-average-variance-standard-deviation/)
