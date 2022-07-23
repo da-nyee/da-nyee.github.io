@@ -1,5 +1,5 @@
 ---
-title: '[Spring] Spring Webflux + Swagger 3.0 적용'
+title: '[Spring] Spring WebFlux + Swagger 3.0 적용'
 author: da-nyee
 date: 2022-07-24 00:52:56 +0900
 categories: [TIL, Spring]
@@ -135,7 +135,7 @@ public class UserUpsertResponse {
 하지만 여기에는 한 가지 문제가 있다.<br/>
 Request Body는 잘 나오지만, Response Body는 빈 배열( {} )로 나온다.<br/>
 
-Web Flux는 `Mono<T>` 또는 `Flux<T>`로 응답하는데, 이와 관련된 설정을 하지 않아 생기는 문제이다.<br/>
+WebFlux는 `Mono<T>` 또는 `Flux<T>`로 응답하는데, 이와 관련된 설정을 하지 않아 생기는 문제이다.<br/>
 
 <br/>
 
