@@ -6,7 +6,7 @@ categories: [EDUCATION, Woowacourse]
 tags: [woowacourse, default constructor, jackson, objectmapper, reflection]
 ---
 
-## Introduction
+## 개요
 
 이번 방학 기간 동안 일부 크루들과 [회고 프로젝트](https://github.com/woowacourse-moltudy/15-mins-retrospective)를 진행하고 있다.<br/>
 각자 구현하다 논의하고 싶은 사항이 생기면 issue를 등록한다.<br/>
@@ -19,30 +19,30 @@ tags: [woowacourse, default constructor, jackson, objectmapper, reflection]
 <img width="940" alt="comment" src="https://user-images.githubusercontent.com/50176238/121677268-9d014500-caf0-11eb-8d0f-c24fff66183a.png">
 
 내가 남긴 의견이지만,<br/>
-아직 리플렉션이 무엇인지도 모르는 상태여서 ObjectMapper와 Reflection에 관해 찾아보기로 했다.<br/>
+아직 Reflection이 무엇인지도 모르는 상태여서 ObjectMapper와 Reflection에 관해 찾아보기로 했다.<br/>
 또, 기본 생성자가 진짜 필요한가? 궁금증이 들기도 했고!<br/>
 
 오후 내내 이 의문에 꽂혀서 한 3시간 찾아봤는데, 내용을 정리할 겸 포스팅으로 기록한다.<br/>
 
 <br/>
 
-## Prior Knowledge
+## 사전 지식
 
-### Serialize
+### 직렬화/부호화
 
-- 직렬화
+- Serialize
 - Object to JSON
 - `getter`를 사용한다.
 
-### Deserialize
+### 역직렬화/복호화
 
-- 역직렬화
+- Deserialize
 - JSON to Object
 - `default constructor`를 사용한다. 👉 불변 객체로 못 만든다.
 
 <br/>
 
-## Thoughts Flow
+## 생각 흐름
 
 그럼 requestDto는 deserialize 과정이 필요하니까 가변적으로 만들어도,<br/>
 responseDto는 serialize 과정이 필요하니까 불변적으로 만들어도 괜찮지 않을까?<br/>
@@ -55,20 +55,20 @@ responseDto는 serialize 과정이 필요하니까 불변적으로 만들어도 
 결과는? 테스트가 잘 통과했다!<br/>
 
 그런데, 너잘과 연락하며 인수 테스트에서 `???.as(??.class)`와 같은 코드를 자주 사용해서 기본 생성자가 필요한 걸 알았다.<br/>
-해당 코드는 자바 리플렉션을 활용한 코드이다.<br/>
+해당 코드는 Java Reflection을 활용한 코드이다.<br/>
 
 <br/>
 
 ## Reflection
 
-리플렉션은 접근 제어자와 상관 없이 클래스 객체를 동적으로 생성하는(런타임 시점) 자바 API이다.<br/>
-참고로, 자바는 정적 언어이다. 따라서, 컴파일 시점에 객체 타입을 결정한다.<br/>
+Reflection은 접근 제어자와 상관 없이 클래스 객체를 동적으로 생성하는(런타임 시점) Java API이다.<br/>
+참고로, Java는 정적 언어이다. 따라서, 컴파일 시점에 객체 타입을 결정한다.<br/>
 
-리플렉션과 기본 생성자에 관해 찾아보다 이런 문장을 마주쳤다.<br/>
+Reflection과 기본 생성자에 관해 찾아보다 이런 문장을 마주쳤다.<br/>
 
 > Almost all frameworks require a default(no-argument) constructor in your class because these frameworks use reflection to create objects by invoking the default constructor
 
-리플렉션은 무조건 기본 생성자가 필요하다는 내용이다.<br/>
+Reflection은 무조건 기본 생성자가 필요하다는 내용이다.<br/>
 왜냐하면 기본 생성자로 객체를 생성하기 때문이다.<br/>
 
 왜 기본 생성자로 생성하지? 궁금해서 더 찾아봤다.<br/>
@@ -94,13 +94,13 @@ Reflection API로 가져올 수 없는 정보 중 하나가 생성자의 인자 
 
 <br/>
 
-## Conclusion
+## 결론
 
 스스로 내린 결론은 인수 테스트까지 생각하면 아무래도 불변성 보장은 힘들 것 같다.<br/>
-왜? 리플렉션은 기본 생성자가 필요하기 때문이다!<br/>
+왜? Reflection은 기본 생성자가 필요하기 때문이다!<br/>
 
 따라서, `private`로 빈 객체 생성(너잘이 우려한 문제)를 막는 게 최선이라 생각한다.<br/>
-왜? 리플렉션은 접근 제어자와 상관 없기 때문이다!<br/>
+왜? Reflection은 접근 제어자와 상관 없기 때문이다!<br/>
 
 <br/>
 
