@@ -20,9 +20,9 @@ Ericsson-LG 소프트웨어 개발자 &nbsp;<sub>(인턴, 2019.07 – 2019.08)</
 
 ### 🎈 **관심 분야**
 - 백엔드 개발 &nbsp;<sub>- Java, Kotlin, Spring Boot, JPA</sub>
-- 클라우드 &nbsp;<sub>- AWS</sub>
-- 애자일 방법론
+- 소프트웨어 아키텍처 및 설계
 - 클린 코드
+- 클라우드 컴퓨팅 &nbsp;<sub>- AWS</sub>
 - Git
 
 <br/>
@@ -43,9 +43,9 @@ To make each day count ✨
 
 ### 🎈 **Interest**
 - Backend/Server-Side Development &nbsp;<sub>- Java, Kotlin, Spring Boot, JPA</sub>
-- Cloud Computing Services &nbsp;<sub>- AWS</sub>
-- Agile Methodology
+- Software Architecture and Design
 - Clean Code
+- Cloud Computing &nbsp;<sub>- AWS</sub>
 - Git
 
 <br/>
