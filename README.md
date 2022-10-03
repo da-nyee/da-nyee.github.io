@@ -119,6 +119,7 @@
 - [[Java] Arrays.sort() vs Collections.sort()](https://da-nyee.github.io/posts/java-arrays-sort-vs-collections-sort/)
 - [[Java] POJO](https://da-nyee.github.io/posts/java-pojo/)
 - [[Java] Optional.orElse() vs Optional.orElseGet()](https://da-nyee.github.io/posts/java-optional-orelse-vs-optional-orelseget/)
+- [[Java] 객체지향적으로 입력 유효성 검증하기](https://da-nyee.github.io/posts/java-input-validation/)
 
 #### Jenkins
 - [[Jenkins] 젠킨스에서 스케줄링하는 방법 (How to schedule in Jenkins) (feat. crontab)](https://da-nyee.github.io/posts/jenkins-how-to-schedule-in-jenkins/)
